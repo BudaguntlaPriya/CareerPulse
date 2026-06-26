@@ -1,0 +1,1002 @@
+job_id,job_title,company,location,salary_lpa,experience,skills,job_type,posted_date
+1,Data Engineer,Google,Chennai,10,7,"SQL, Azure, AWS",Internship,2025-01-27
+2,BI Analyst,Microsoft,Hyderabad,22,8,"Tableau, Kafka, Machine Learning, Azure, Python",Contract,2026-04-25
+3,BI Analyst,Amazon,Mumbai,23,2,"SQL, Azure, Tableau, Airflow",Full-Time,2026-01-20
+4,Data Analyst,Google,Bangalore,27,2,"Machine Learning, Azure, Spark",Internship,2025-05-18
+5,AI Engineer,Microsoft,Hyderabad,35,2,"Kafka, Power BI, Azure, SQL, Python",Internship,2026-02-22
+6,Data Scientist,Zoho,Chennai,8,4,"Python, Spark, Azure",Internship,2026-05-15
+7,Data Scientist,Flipkart,Chennai,15,7,"Machine Learning, Kafka, Power BI, Spark",Internship,2025-09-08
+8,Analytics Engineer,TCS,Pune,24,8,"Python, Machine Learning, Airflow, Tableau",Full-Time,2026-03-27
+9,Data Analyst,Infosys,Hyderabad,33,8,"Kafka, Spark, Airflow",Contract,2025-07-28
+10,Data Scientist,Accenture,Mumbai,6,1,"Power BI, Azure, Airflow",Full-Time,2026-06-12
+11,Machine Learning Engineer,IBM,Delhi,22,9,"Airflow, Tableau, AWS, Azure",Full-Time,2025-07-27
+12,Machine Learning Engineer,IBM,Bangalore,19,0,"Tableau, AWS, Machine Learning",Contract,2025-05-26
+13,Analytics Engineer,IBM,Hyderabad,16,6,"Airflow, Power BI, Spark",Internship,2025-09-26
+14,Python Developer,Flipkart,Pune,6,6,"Machine Learning, Python, Tableau",Contract,2026-06-30
+15,AI Engineer,Oracle,Chennai,11,4,"Python, Kafka, Spark",Full-Time,2025-11-11
+16,AI Engineer,Google,Pune,18,8,"AWS, Azure, Spark",Contract,2026-06-24
+17,Data Scientist,Amazon,Bangalore,10,10,"Machine Learning, Azure, Airflow, SQL",Contract,2025-06-24
+18,Data Scientist,Paytm,Pune,4,4,"Tableau, Kafka, Power BI, Spark, Azure",Contract,2026-04-29
+19,Data Analyst,Deloitte,Delhi,22,9,"Machine Learning, SQL, Spark, Power BI, Airflow",Full-Time,2025-06-01
+20,Data Engineer,Capgemini,Chennai,16,7,"Kafka, Power BI, Airflow, AWS",Contract,2025-09-03
+21,Machine Learning Engineer,Paytm,Chennai,9,4,"AWS, Power BI, Python, Kafka",Contract,2025-01-26
+22,BI Analyst,Flipkart,Bangalore,25,3,"Spark, Airflow, Azure",Internship,2025-10-25
+23,Analytics Engineer,Flipkart,Hyderabad,8,10,"Tableau, SQL, Machine Learning",Full-Time,2025-08-28
+24,BI Analyst,Deloitte,Bangalore,31,0,"Airflow, Machine Learning, SQL, Tableau, AWS",Contract,2026-02-23
+25,AI Engineer,IBM,Chennai,11,9,"Machine Learning, Spark, Kafka",Full-Time,2025-09-11
+26,AI Engineer,Wipro,Mumbai,31,6,"Power BI, Tableau, SQL, Spark, Kafka",Contract,2026-05-13
+27,Python Developer,Amazon,Bangalore,19,1,"Airflow, Spark, Python, SQL, Machine Learning",Full-Time,2025-09-06
+28,Data Engineer,Google,Pune,31,2,"Spark, Kafka, Python, Azure, AWS",Internship,2025-05-01
+29,Data Analyst,Capgemini,Delhi,17,5,"Kafka, Power BI, SQL",Contract,2026-03-16
+30,Python Developer,Microsoft,Chennai,28,4,"Power BI, Tableau, AWS, Machine Learning, Spark",Full-Time,2026-04-21
+31,Data Engineer,Deloitte,Hyderabad,26,5,"Spark, Azure, Airflow",Internship,2026-06-28
+32,Machine Learning Engineer,Deloitte,Chennai,19,5,"Azure, AWS, Kafka",Full-Time,2025-09-11
+33,BI Analyst,Accenture,Mumbai,15,3,"Azure, Tableau, Spark, Kafka",Full-Time,2025-07-22
+34,AI Engineer,Oracle,Bangalore,24,4,"Spark, Azure, Machine Learning",Full-Time,2025-12-17
+35,AI Engineer,Amazon,Delhi,9,3,"Kafka, Airflow, Power BI, Machine Learning",Full-Time,2025-12-03
+36,Analytics Engineer,Google,Mumbai,28,9,"Kafka, Python, Azure",Internship,2026-06-22
+37,Machine Learning Engineer,IBM,Bangalore,32,0,"Airflow, Tableau, Kafka",Full-Time,2025-03-20
+38,Analytics Engineer,Oracle,Delhi,24,5,"Spark, Airflow, Machine Learning, Kafka",Internship,2025-11-23
+39,Python Developer,Capgemini,Bangalore,9,2,"Spark, Kafka, Airflow",Internship,2025-01-19
+40,Data Scientist,Infosys,Mumbai,27,1,"Machine Learning, Spark, Python, Azure, Power BI",Contract,2025-08-06
+41,AI Engineer,Accenture,Mumbai,18,7,"Azure, Spark, Kafka, Python, Power BI",Full-Time,2025-01-12
+42,Analytics Engineer,Flipkart,Bangalore,25,5,"Azure, Tableau, Airflow, AWS, Kafka",Contract,2025-11-10
+43,Analytics Engineer,Zoho,Pune,33,2,"Machine Learning, Python, AWS",Internship,2025-10-25
+44,Data Analyst,Cognizant,Pune,12,8,"Spark, Airflow, Kafka, AWS",Contract,2026-05-15
+45,Data Analyst,Oracle,Chennai,7,1,"AWS, Power BI, Kafka",Contract,2026-06-05
+46,BI Analyst,Google,Bangalore,35,10,"SQL, AWS, Azure, Airflow, Spark",Contract,2025-02-11
+47,Data Scientist,Google,Hyderabad,12,10,"SQL, Azure, Tableau, Python",Full-Time,2025-05-07
+48,Data Analyst,Accenture,Pune,18,9,"Airflow, SQL, Tableau, Machine Learning",Internship,2026-06-27
+49,Data Engineer,Capgemini,Pune,16,8,"Airflow, Tableau, AWS, Azure",Contract,2025-01-29
+50,Data Analyst,Amazon,Bangalore,31,1,"Airflow, AWS, SQL",Internship,2025-11-26
+51,BI Analyst,Cognizant,Pune,33,4,"Machine Learning, Tableau, Kafka, Azure, Power BI",Internship,2025-03-13
+52,Machine Learning Engineer,Deloitte,Pune,8,7,"Python, Power BI, Tableau, Kafka, Azure",Full-Time,2026-05-11
+53,Data Scientist,Google,Delhi,30,3,"AWS, Machine Learning, SQL, Power BI",Internship,2025-10-11
+54,AI Engineer,Microsoft,Pune,15,0,"Tableau, Machine Learning, Power BI, Azure, SQL",Internship,2025-11-15
+55,Data Scientist,Oracle,Chennai,32,6,"Azure, AWS, Machine Learning",Internship,2026-04-18
+56,Machine Learning Engineer,Capgemini,Hyderabad,34,6,"Machine Learning, Azure, Power BI, Kafka, Tableau",Full-Time,2025-07-06
+57,BI Analyst,Google,Chennai,10,10,"Airflow, Spark, Tableau, SQL",Full-Time,2025-11-11
+58,Python Developer,Cognizant,Bangalore,6,5,"Azure, Airflow, Power BI",Contract,2026-05-04
+59,Data Analyst,Deloitte,Mumbai,23,0,"Tableau, Kafka, Airflow, SQL",Full-Time,2026-05-29
+60,Data Scientist,Cognizant,Chennai,18,1,"AWS, Spark, SQL",Full-Time,2025-10-20
+61,Python Developer,IBM,Mumbai,32,0,"Airflow, Machine Learning, Tableau",Internship,2026-03-01
+62,BI Analyst,Paytm,Pune,27,6,"Azure, AWS, SQL, Python, Spark",Internship,2026-06-28
+63,BI Analyst,Zoho,Delhi,21,1,"AWS, Airflow, SQL",Full-Time,2025-04-14
+64,AI Engineer,IBM,Chennai,13,7,"Spark, Kafka, Machine Learning, SQL",Internship,2026-03-25
+65,Data Analyst,Capgemini,Hyderabad,23,9,"Azure, SQL, Python, Machine Learning, Airflow",Full-Time,2025-11-14
+66,BI Analyst,Amazon,Pune,35,5,"Kafka, AWS, Power BI",Contract,2025-12-23
+67,Analytics Engineer,TCS,Chennai,18,0,"Power BI, Airflow, Azure, Tableau",Full-Time,2025-03-18
+68,Machine Learning Engineer,Amazon,Bangalore,18,4,"Machine Learning, Power BI, Spark",Contract,2025-04-20
+69,Analytics Engineer,Capgemini,Bangalore,10,7,"Power BI, Machine Learning, Tableau, Azure",Internship,2025-10-08
+70,Python Developer,Paytm,Chennai,10,3,"Kafka, Python, AWS, Tableau",Full-Time,2026-02-12
+71,Data Scientist,TCS,Pune,33,7,"Spark, Python, AWS, Airflow",Internship,2025-07-01
+72,Data Engineer,Google,Delhi,34,7,"Tableau, Kafka, Spark",Internship,2025-05-21
+73,AI Engineer,Wipro,Mumbai,32,2,"SQL, Kafka, Tableau, Power BI, Machine Learning",Contract,2026-01-27
+74,BI Analyst,Paytm,Mumbai,34,6,"Power BI, Machine Learning, Airflow, AWS, Python",Full-Time,2025-02-28
+75,Analytics Engineer,Zoho,Chennai,29,8,"Tableau, Power BI, Kafka",Contract,2025-10-06
+76,Data Analyst,Zoho,Bangalore,14,4,"SQL, Python, Machine Learning, Power BI, Kafka",Contract,2026-04-29
+77,Python Developer,Capgemini,Bangalore,17,9,"Power BI, SQL, Spark, Airflow",Internship,2025-07-05
+78,BI Analyst,Deloitte,Hyderabad,22,3,"Airflow, SQL, Tableau, Spark",Contract,2025-07-16
+79,Data Scientist,Flipkart,Chennai,22,0,"Tableau, Airflow, AWS, SQL, Python",Internship,2025-10-19
+80,Data Analyst,Paytm,Delhi,32,7,"Power BI, Tableau, SQL, Kafka",Contract,2025-06-16
+81,Analytics Engineer,Google,Mumbai,27,5,"Python, Spark, Tableau, SQL",Internship,2025-07-12
+82,BI Analyst,Cognizant,Bangalore,9,7,"Spark, Tableau, Python",Full-Time,2025-12-22
+83,Machine Learning Engineer,Cognizant,Bangalore,29,4,"Kafka, SQL, Machine Learning, Tableau",Full-Time,2025-05-08
+84,Data Engineer,Paytm,Hyderabad,5,0,"Tableau, Machine Learning, Airflow, Python",Full-Time,2025-09-12
+85,Machine Learning Engineer,IBM,Mumbai,14,1,"Azure, Spark, Tableau, Kafka, Airflow",Contract,2025-01-31
+86,Data Scientist,Capgemini,Pune,19,7,"Tableau, Spark, Power BI, AWS",Contract,2025-05-21
+87,Machine Learning Engineer,Google,Hyderabad,32,6,"Power BI, Airflow, Kafka, Tableau",Internship,2025-03-08
+88,Data Analyst,Capgemini,Chennai,27,2,"Tableau, SQL, AWS, Python",Internship,2025-03-09
+89,BI Analyst,Oracle,Hyderabad,29,1,"Airflow, SQL, Kafka, Tableau",Internship,2025-04-29
+90,AI Engineer,Infosys,Delhi,22,6,"Kafka, AWS, Python, SQL, Spark",Internship,2025-10-28
+91,BI Analyst,Amazon,Pune,35,7,"Azure, Tableau, Power BI, Airflow",Contract,2025-04-06
+92,AI Engineer,IBM,Pune,11,3,"Machine Learning, Azure, Kafka, Spark",Full-Time,2026-01-26
+93,Data Engineer,Infosys,Chennai,26,6,"Power BI, Spark, Azure",Full-Time,2025-07-05
+94,Data Analyst,Deloitte,Bangalore,7,4,"AWS, Airflow, Tableau, Python",Full-Time,2026-01-27
+95,Python Developer,Oracle,Chennai,12,0,"AWS, Power BI, SQL",Internship,2025-07-07
+96,Data Engineer,Amazon,Chennai,13,5,"Airflow, Machine Learning, Power BI",Internship,2026-02-27
+97,AI Engineer,Capgemini,Pune,32,4,"Kafka, Tableau, Azure, Power BI",Internship,2025-04-10
+98,Data Analyst,Paytm,Chennai,34,8,"Power BI, SQL, Spark, Azure, Airflow",Internship,2025-01-15
+99,Python Developer,Paytm,Chennai,13,5,"Spark, Kafka, Power BI, Azure",Internship,2025-01-04
+100,Analytics Engineer,Oracle,Chennai,13,3,"Python, Airflow, Spark",Contract,2026-05-07
+101,Data Analyst,Capgemini,Chennai,10,5,"SQL, AWS, Azure, Python",Contract,2025-04-26
+102,BI Analyst,Microsoft,Mumbai,16,0,"Spark, Machine Learning, Airflow, Tableau, Python",Contract,2025-09-19
+103,AI Engineer,Flipkart,Chennai,28,9,"Kafka, Spark, Azure, SQL",Internship,2026-03-14
+104,BI Analyst,Cognizant,Pune,30,6,"Tableau, Power BI, SQL",Contract,2025-07-25
+105,Analytics Engineer,Flipkart,Delhi,11,4,"Tableau, SQL, Azure",Internship,2025-02-19
+106,Python Developer,Wipro,Delhi,34,7,"Spark, Airflow, Tableau, Python, SQL",Full-Time,2026-02-15
+107,Data Scientist,Paytm,Delhi,34,2,"Azure, AWS, SQL, Machine Learning, Airflow",Contract,2025-12-21
+108,BI Analyst,Capgemini,Mumbai,9,5,"Airflow, Python, Spark",Full-Time,2025-03-19
+109,Data Scientist,Capgemini,Chennai,28,6,"Python, Spark, Machine Learning, Airflow",Contract,2026-05-20
+110,Data Scientist,Infosys,Pune,27,1,"SQL, Kafka, Airflow",Full-Time,2025-12-27
+111,Data Analyst,Oracle,Chennai,19,5,"SQL, Tableau, Kafka",Contract,2025-10-27
+112,Data Analyst,IBM,Hyderabad,14,0,"Kafka, Spark, Python, Azure, SQL",Contract,2025-03-31
+113,Data Scientist,TCS,Pune,18,10,"Kafka, AWS, SQL, Power BI, Tableau",Contract,2026-02-01
+114,Data Scientist,Oracle,Delhi,34,7,"Machine Learning, SQL, Python, Airflow",Internship,2025-10-23
+115,Python Developer,Flipkart,Chennai,16,7,"Tableau, SQL, Airflow",Full-Time,2025-05-01
+116,Data Analyst,IBM,Mumbai,34,2,"Spark, Power BI, AWS, SQL",Contract,2026-03-13
+117,Data Scientist,Infosys,Bangalore,6,7,"Machine Learning, Python, Spark, Azure, Airflow",Contract,2025-02-16
+118,Data Engineer,Flipkart,Hyderabad,28,5,"Kafka, Tableau, Airflow, Azure",Contract,2026-06-15
+119,Python Developer,Wipro,Bangalore,18,8,"AWS, Spark, SQL, Machine Learning",Internship,2026-06-05
+120,AI Engineer,TCS,Pune,30,0,"Machine Learning, Airflow, Kafka, Tableau",Contract,2025-02-28
+121,Analytics Engineer,Oracle,Mumbai,9,8,"Machine Learning, Spark, Kafka",Internship,2026-04-17
+122,Data Analyst,Zoho,Chennai,24,6,"Machine Learning, Tableau, Airflow, Kafka, AWS",Full-Time,2025-10-15
+123,BI Analyst,Wipro,Mumbai,34,9,"Tableau, Power BI, Machine Learning, AWS",Contract,2025-07-26
+124,Machine Learning Engineer,Capgemini,Hyderabad,6,1,"Python, Spark, Tableau",Internship,2025-09-12
+125,Data Engineer,Deloitte,Mumbai,33,3,"Airflow, Spark, Azure",Internship,2025-01-15
+126,BI Analyst,Microsoft,Hyderabad,8,9,"SQL, Tableau, Kafka, Power BI",Internship,2025-08-24
+127,Data Scientist,Paytm,Bangalore,31,2,"Airflow, Azure, Kafka, AWS, Power BI",Contract,2026-04-08
+128,Python Developer,TCS,Delhi,30,5,"Python, Azure, SQL, Kafka",Contract,2026-04-14
+129,Analytics Engineer,Cognizant,Bangalore,22,4,"Machine Learning, Airflow, Spark",Contract,2025-05-23
+130,AI Engineer,Flipkart,Mumbai,4,3,"Tableau, Kafka, AWS, Airflow, Machine Learning",Internship,2025-01-18
+131,Python Developer,Flipkart,Mumbai,16,5,"Kafka, Spark, Azure",Internship,2025-10-03
+132,Analytics Engineer,Infosys,Mumbai,28,4,"SQL, Airflow, Power BI",Contract,2025-07-18
+133,Data Engineer,Deloitte,Bangalore,9,9,"Python, Power BI, Azure",Full-Time,2025-01-04
+134,Machine Learning Engineer,Capgemini,Hyderabad,34,8,"Spark, Power BI, Python",Contract,2025-02-26
+135,Python Developer,Flipkart,Delhi,29,1,"Kafka, Machine Learning, Airflow, Azure, SQL",Contract,2025-06-20
+136,Data Scientist,Accenture,Hyderabad,30,6,"SQL, Tableau, Power BI",Contract,2025-05-02
+137,Data Engineer,Microsoft,Pune,23,1,"Kafka, Azure, SQL, Python",Contract,2026-04-04
+138,Data Scientist,Microsoft,Delhi,16,10,"Tableau, Spark, AWS, Airflow, SQL",Contract,2026-06-05
+139,Analytics Engineer,Amazon,Hyderabad,6,5,"Power BI, Spark, Azure, Tableau, SQL",Full-Time,2025-05-19
+140,Machine Learning Engineer,TCS,Chennai,29,1,"Azure, Machine Learning, Python, AWS",Full-Time,2025-09-01
+141,Python Developer,Amazon,Delhi,9,5,"Power BI, Python, AWS, SQL, Airflow",Contract,2025-09-26
+142,Machine Learning Engineer,Amazon,Pune,31,10,"Azure, SQL, Python, Airflow",Full-Time,2025-02-01
+143,Data Engineer,Infosys,Bangalore,5,5,"Azure, Tableau, Power BI, Airflow, AWS",Contract,2025-09-09
+144,Data Scientist,Infosys,Mumbai,27,3,"Machine Learning, Airflow, Azure, Spark, AWS",Internship,2025-07-27
+145,Data Scientist,Oracle,Pune,30,4,"AWS, Tableau, Kafka",Full-Time,2025-04-27
+146,BI Analyst,Wipro,Delhi,25,7,"Power BI, Spark, Python",Contract,2026-06-03
+147,Data Scientist,Deloitte,Chennai,34,2,"Python, Spark, Azure",Internship,2026-06-21
+148,Data Engineer,Paytm,Chennai,4,6,"Azure, Power BI, Machine Learning",Internship,2025-06-26
+149,AI Engineer,Deloitte,Delhi,7,10,"Azure, Spark, AWS, Power BI",Internship,2025-01-27
+150,BI Analyst,Cognizant,Pune,9,0,"Python, Machine Learning, Airflow, SQL",Full-Time,2026-02-27
+151,Python Developer,IBM,Chennai,24,0,"AWS, Tableau, Airflow, Kafka, SQL",Full-Time,2025-05-12
+152,BI Analyst,Paytm,Chennai,18,2,"Tableau, Airflow, Spark",Contract,2025-04-02
+153,AI Engineer,Google,Delhi,34,5,"Azure, Airflow, SQL, Python, Tableau",Contract,2025-05-20
+154,Machine Learning Engineer,Cognizant,Bangalore,18,3,"Airflow, Spark, Azure, Tableau",Contract,2025-03-25
+155,Machine Learning Engineer,Amazon,Delhi,13,10,"Power BI, Spark, Airflow",Contract,2026-04-28
+156,Data Engineer,Amazon,Pune,14,3,"Azure, Python, Power BI, Spark, Machine Learning",Full-Time,2025-06-04
+157,AI Engineer,Deloitte,Mumbai,32,1,"SQL, Tableau, Python, Machine Learning, Azure",Full-Time,2026-01-01
+158,Data Scientist,Wipro,Mumbai,17,8,"Kafka, Power BI, SQL, Tableau",Internship,2025-11-29
+159,Data Engineer,TCS,Mumbai,19,3,"Power BI, Python, Spark, Tableau",Full-Time,2025-05-03
+160,Machine Learning Engineer,IBM,Pune,30,8,"Tableau, AWS, Power BI, Spark",Internship,2026-03-20
+161,AI Engineer,Microsoft,Mumbai,35,10,"Spark, Kafka, Power BI, Tableau, SQL",Internship,2025-10-13
+162,Python Developer,Amazon,Hyderabad,15,0,"Power BI, Python, Azure, Kafka, Machine Learning",Contract,2025-09-30
+163,Python Developer,Paytm,Delhi,10,5,"Spark, Python, Tableau, Azure",Full-Time,2025-12-01
+164,Analytics Engineer,TCS,Bangalore,33,6,"Azure, Tableau, Power BI, SQL",Full-Time,2025-10-02
+165,Machine Learning Engineer,Amazon,Bangalore,31,8,"Azure, AWS, SQL, Spark, Airflow",Contract,2025-04-12
+166,Python Developer,Google,Chennai,22,7,"AWS, SQL, Kafka, Power BI",Internship,2025-12-02
+167,Python Developer,IBM,Hyderabad,20,4,"SQL, Python, Azure, Machine Learning, Spark",Contract,2025-10-26
+168,Data Analyst,Capgemini,Hyderabad,8,1,"Azure, Airflow, Kafka, AWS",Internship,2025-12-18
+169,AI Engineer,IBM,Bangalore,20,10,"Azure, Power BI, Airflow",Contract,2025-03-10
+170,AI Engineer,Flipkart,Bangalore,22,10,"Kafka, AWS, Tableau, Power BI, Azure",Internship,2026-04-22
+171,AI Engineer,Zoho,Chennai,27,7,"Azure, AWS, Tableau, Python, Airflow",Internship,2026-06-02
+172,Data Analyst,Capgemini,Delhi,27,4,"Airflow, Power BI, Python",Full-Time,2025-01-18
+173,AI Engineer,Amazon,Bangalore,20,5,"Machine Learning, Kafka, SQL, Tableau, Spark",Full-Time,2025-07-26
+174,Machine Learning Engineer,Capgemini,Delhi,7,6,"Tableau, Machine Learning, Power BI, Airflow, Kafka",Full-Time,2025-01-20
+175,AI Engineer,Google,Chennai,19,1,"Kafka, Machine Learning, Python",Contract,2025-11-30
+176,Machine Learning Engineer,Amazon,Pune,16,10,"Spark, Machine Learning, Python",Internship,2025-05-23
+177,Machine Learning Engineer,Flipkart,Pune,6,5,"SQL, Machine Learning, Airflow",Contract,2025-12-13
+178,BI Analyst,Cognizant,Hyderabad,16,1,"SQL, Azure, Spark, Kafka",Contract,2025-05-31
+179,Data Engineer,Zoho,Bangalore,4,6,"AWS, Python, Tableau, SQL",Full-Time,2025-07-30
+180,BI Analyst,Infosys,Mumbai,16,7,"AWS, Azure, Spark, Kafka",Internship,2025-04-26
+181,Python Developer,Deloitte,Pune,15,5,"Power BI, SQL, Machine Learning, AWS, Kafka",Full-Time,2025-05-18
+182,Machine Learning Engineer,IBM,Chennai,25,4,"Machine Learning, Power BI, Tableau, SQL, AWS",Full-Time,2025-03-11
+183,Data Scientist,Cognizant,Delhi,27,4,"Azure, AWS, Machine Learning",Contract,2026-02-17
+184,Analytics Engineer,IBM,Pune,9,9,"Azure, Spark, AWS, Python",Full-Time,2025-11-30
+185,Data Analyst,Paytm,Chennai,24,8,"SQL, Machine Learning, Python, Airflow",Contract,2025-02-10
+186,Python Developer,Flipkart,Pune,35,5,"Python, SQL, Spark, Airflow",Full-Time,2025-11-30
+187,Data Scientist,Google,Chennai,13,7,"Kafka, Spark, Machine Learning, Azure",Full-Time,2025-03-07
+188,Data Engineer,Oracle,Delhi,15,1,"Spark, SQL, Python, Kafka",Contract,2025-05-25
+189,AI Engineer,IBM,Hyderabad,33,7,"Power BI, Spark, Kafka, AWS",Full-Time,2025-03-20
+190,Machine Learning Engineer,Amazon,Chennai,4,3,"Machine Learning, Spark, Kafka, SQL, Azure",Internship,2025-02-22
+191,BI Analyst,Flipkart,Hyderabad,17,10,"SQL, Spark, Tableau, Azure, Kafka",Internship,2025-08-20
+192,Data Scientist,Infosys,Chennai,23,5,"AWS, Spark, Tableau",Contract,2025-03-15
+193,Data Scientist,Google,Delhi,34,7,"SQL, Tableau, AWS",Full-Time,2025-12-08
+194,AI Engineer,Capgemini,Delhi,8,9,"Airflow, SQL, Spark",Internship,2025-12-20
+195,AI Engineer,Microsoft,Delhi,26,3,"Power BI, Machine Learning, SQL",Contract,2026-02-15
+196,AI Engineer,Accenture,Bangalore,4,8,"SQL, Kafka, Power BI, Airflow, Spark",Full-Time,2025-07-29
+197,Data Engineer,Cognizant,Bangalore,11,8,"Python, AWS, Airflow, Kafka",Internship,2026-05-03
+198,Data Engineer,Zoho,Delhi,8,0,"Spark, Tableau, Azure, AWS",Contract,2026-02-25
+199,Python Developer,Accenture,Bangalore,6,3,"Power BI, Tableau, Python, AWS, Azure",Contract,2025-01-27
+200,Data Scientist,IBM,Chennai,12,9,"Spark, Machine Learning, Python, Airflow, Kafka",Contract,2025-02-08
+201,Analytics Engineer,Infosys,Bangalore,28,1,"SQL, Machine Learning, Tableau, Azure",Contract,2026-03-31
+202,Python Developer,Capgemini,Mumbai,26,4,"Machine Learning, Azure, SQL",Internship,2026-01-19
+203,AI Engineer,Google,Bangalore,30,7,"Machine Learning, Spark, Azure, Kafka, SQL",Full-Time,2025-07-03
+204,Data Analyst,IBM,Bangalore,29,9,"Spark, Power BI, Python",Full-Time,2025-08-13
+205,Data Engineer,Zoho,Chennai,4,9,"Python, SQL, Tableau, AWS",Internship,2026-01-10
+206,Analytics Engineer,Oracle,Hyderabad,24,9,"Tableau, Kafka, AWS, Python, Power BI",Contract,2026-05-21
+207,AI Engineer,Paytm,Chennai,14,8,"Machine Learning, AWS, Tableau",Internship,2026-03-15
+208,Machine Learning Engineer,Wipro,Mumbai,7,5,"Azure, AWS, SQL",Full-Time,2026-03-27
+209,AI Engineer,Infosys,Chennai,15,1,"Azure, Kafka, SQL",Contract,2026-03-20
+210,Python Developer,Infosys,Mumbai,4,3,"Kafka, Python, Machine Learning, SQL, AWS",Internship,2025-01-23
+211,Analytics Engineer,Capgemini,Chennai,19,3,"Tableau, Machine Learning, SQL",Full-Time,2026-03-19
+212,Python Developer,Wipro,Bangalore,26,4,"Azure, Kafka, Python",Contract,2025-04-30
+213,AI Engineer,Capgemini,Pune,11,3,"Azure, Kafka, SQL",Contract,2025-02-14
+214,Data Analyst,Google,Mumbai,30,9,"Machine Learning, Python, Tableau",Full-Time,2026-04-20
+215,Python Developer,Flipkart,Chennai,25,8,"Kafka, Power BI, Python, SQL, Machine Learning",Internship,2025-04-28
+216,Data Engineer,TCS,Hyderabad,6,4,"Machine Learning, SQL, Airflow, Power BI",Contract,2026-03-26
+217,AI Engineer,IBM,Chennai,24,8,"Power BI, SQL, Python, Tableau, AWS",Contract,2026-01-21
+218,Analytics Engineer,Amazon,Delhi,20,4,"Power BI, Kafka, Azure",Contract,2025-01-19
+219,Data Engineer,Zoho,Pune,16,6,"Spark, Azure, Python, AWS",Full-Time,2025-03-17
+220,Machine Learning Engineer,Cognizant,Bangalore,11,3,"AWS, Kafka, Spark, Power BI, Tableau",Full-Time,2025-09-28
+221,BI Analyst,Infosys,Chennai,28,3,"Python, Kafka, Tableau, Airflow",Contract,2025-10-02
+222,BI Analyst,Amazon,Hyderabad,32,4,"Kafka, Tableau, SQL, AWS",Internship,2026-06-25
+223,Analytics Engineer,Deloitte,Chennai,12,10,"Python, Airflow, Azure, Machine Learning",Full-Time,2025-11-24
+224,Analytics Engineer,Amazon,Mumbai,29,4,"SQL, Azure, Python, Power BI, Kafka",Contract,2026-02-16
+225,Machine Learning Engineer,Oracle,Hyderabad,23,10,"Power BI, Kafka, Tableau",Full-Time,2026-02-26
+226,BI Analyst,Zoho,Pune,23,4,"Kafka, Power BI, AWS, SQL, Azure",Internship,2026-03-27
+227,AI Engineer,Paytm,Delhi,14,9,"Spark, Tableau, SQL, Python",Internship,2025-08-01
+228,Data Scientist,Deloitte,Hyderabad,28,6,"Azure, Python, AWS, Machine Learning, Power BI",Full-Time,2025-07-14
+229,AI Engineer,Capgemini,Mumbai,9,9,"Spark, Power BI, Tableau",Contract,2025-02-26
+230,Analytics Engineer,Amazon,Mumbai,22,1,"Kafka, Spark, AWS, Machine Learning",Internship,2026-01-01
+231,Machine Learning Engineer,Flipkart,Chennai,14,9,"Airflow, Machine Learning, Azure",Internship,2026-01-19
+232,AI Engineer,Paytm,Bangalore,12,7,"Machine Learning, Azure, Kafka, Python",Internship,2025-03-28
+233,Analytics Engineer,Deloitte,Chennai,23,10,"Python, Azure, AWS, SQL",Contract,2026-01-09
+234,Analytics Engineer,Oracle,Delhi,34,5,"AWS, Python, Spark, Machine Learning, Kafka",Internship,2025-07-06
+235,Data Engineer,Accenture,Chennai,31,8,"Python, SQL, Airflow, AWS",Full-Time,2025-01-19
+236,Analytics Engineer,TCS,Mumbai,21,10,"Power BI, Azure, AWS",Full-Time,2025-09-28
+237,Data Analyst,TCS,Mumbai,12,0,"Airflow, Tableau, Power BI",Full-Time,2025-07-24
+238,Analytics Engineer,Microsoft,Bangalore,12,3,"SQL, Machine Learning, Python, Airflow, Azure",Internship,2026-04-13
+239,Data Engineer,Capgemini,Hyderabad,27,10,"Power BI, Python, Tableau, SQL, AWS",Full-Time,2026-05-24
+240,Analytics Engineer,IBM,Pune,17,3,"AWS, Spark, Python, Azure",Internship,2025-11-20
+241,Python Developer,Cognizant,Mumbai,5,3,"Spark, Airflow, Tableau, Azure, AWS",Contract,2025-03-15
+242,Python Developer,Microsoft,Mumbai,4,7,"Spark, Machine Learning, Kafka, Azure",Internship,2025-01-14
+243,Machine Learning Engineer,Google,Bangalore,18,5,"SQL, Azure, Machine Learning, Power BI, Spark",Contract,2025-05-02
+244,Data Engineer,Amazon,Chennai,19,6,"Python, AWS, Airflow",Internship,2026-01-07
+245,Data Analyst,Accenture,Chennai,33,9,"Azure, Tableau, Kafka",Contract,2025-08-08
+246,BI Analyst,Microsoft,Hyderabad,35,9,"Tableau, Spark, Azure, Power BI, Kafka",Contract,2025-06-21
+247,Data Engineer,TCS,Chennai,4,2,"Airflow, Tableau, Azure, SQL",Contract,2025-12-14
+248,Machine Learning Engineer,Oracle,Hyderabad,20,9,"Python, AWS, Airflow, Tableau",Full-Time,2025-01-15
+249,BI Analyst,Paytm,Chennai,22,6,"Spark, Kafka, Power BI",Full-Time,2026-06-14
+250,Data Scientist,Microsoft,Bangalore,27,9,"Power BI, AWS, SQL",Full-Time,2025-10-25
+251,Data Engineer,Zoho,Pune,31,1,"Azure, SQL, Kafka, Python",Contract,2026-03-19
+252,Data Engineer,Deloitte,Mumbai,22,1,"Kafka, Tableau, AWS",Full-Time,2025-06-27
+253,Machine Learning Engineer,Infosys,Mumbai,14,1,"Power BI, Azure, Kafka, Spark, Airflow",Contract,2025-06-18
+254,Data Engineer,Flipkart,Pune,31,4,"AWS, Azure, Machine Learning, SQL, Airflow",Contract,2025-07-21
+255,Analytics Engineer,Wipro,Delhi,24,9,"AWS, Azure, Kafka, Spark",Full-Time,2025-01-17
+256,Machine Learning Engineer,Infosys,Mumbai,34,7,"Spark, Power BI, Tableau",Full-Time,2025-11-13
+257,AI Engineer,Amazon,Chennai,14,0,"Machine Learning, Azure, Kafka, AWS, SQL",Contract,2026-01-30
+258,BI Analyst,Amazon,Chennai,16,5,"Azure, Python, Tableau, Power BI, SQL",Internship,2025-12-12
+259,Analytics Engineer,Amazon,Hyderabad,12,2,"Power BI, Airflow, AWS",Full-Time,2025-10-31
+260,Data Scientist,Oracle,Delhi,6,5,"Tableau, Spark, Kafka, Airflow, Power BI",Internship,2025-08-26
+261,Data Scientist,Amazon,Bangalore,11,8,"Python, Airflow, Azure",Contract,2026-02-23
+262,Data Analyst,Oracle,Mumbai,25,8,"AWS, Machine Learning, Azure",Internship,2025-04-13
+263,Python Developer,TCS,Mumbai,34,9,"SQL, Machine Learning, Python",Full-Time,2026-02-01
+264,Data Analyst,Oracle,Bangalore,6,2,"Tableau, Azure, Kafka, Airflow",Contract,2025-09-06
+265,Data Analyst,Wipro,Bangalore,19,7,"Machine Learning, Airflow, Power BI, AWS",Full-Time,2025-02-19
+266,Data Engineer,Flipkart,Hyderabad,5,2,"Azure, Python, AWS, SQL, Kafka",Contract,2026-06-08
+267,Python Developer,Deloitte,Chennai,17,5,"Spark, Power BI, Airflow, Tableau, Python",Full-Time,2026-01-23
+268,Machine Learning Engineer,Infosys,Delhi,27,4,"AWS, Azure, Python, SQL, Airflow",Full-Time,2025-07-16
+269,BI Analyst,Deloitte,Pune,14,0,"Azure, SQL, AWS",Internship,2025-03-15
+270,Analytics Engineer,Capgemini,Delhi,13,1,"AWS, Kafka, Python, Spark, Airflow",Internship,2026-02-23
+271,Data Engineer,Cognizant,Mumbai,24,4,"Azure, Spark, Power BI, Tableau, Machine Learning",Internship,2025-08-01
+272,Analytics Engineer,Capgemini,Chennai,32,10,"Spark, AWS, Machine Learning, Python, Azure",Internship,2025-11-11
+273,BI Analyst,Amazon,Pune,22,8,"Kafka, AWS, SQL, Machine Learning",Internship,2025-02-10
+274,AI Engineer,Oracle,Pune,6,8,"Airflow, Azure, AWS, Python",Internship,2025-01-03
+275,Analytics Engineer,Cognizant,Hyderabad,30,2,"Spark, Kafka, AWS, Tableau",Contract,2026-04-23
+276,Data Analyst,Paytm,Hyderabad,12,8,"Python, Tableau, Kafka, SQL, Airflow",Contract,2025-10-14
+277,Data Scientist,Wipro,Pune,13,4,"Azure, Airflow, Kafka, Spark, Power BI",Contract,2025-08-18
+278,Data Analyst,Wipro,Hyderabad,12,3,"Airflow, Azure, SQL, Tableau",Full-Time,2025-03-12
+279,BI Analyst,Google,Bangalore,20,8,"Tableau, Machine Learning, Spark",Internship,2025-09-24
+280,AI Engineer,Amazon,Mumbai,27,3,"SQL, Power BI, Kafka, Machine Learning",Full-Time,2026-05-12
+281,Analytics Engineer,Accenture,Chennai,30,6,"Kafka, AWS, Tableau",Internship,2026-04-06
+282,Data Scientist,Google,Mumbai,22,1,"Power BI, SQL, Kafka",Contract,2025-03-01
+283,Data Scientist,Zoho,Bangalore,33,2,"AWS, Power BI, Tableau, Python",Full-Time,2026-02-20
+284,Data Scientist,Oracle,Hyderabad,8,6,"AWS, Tableau, Kafka, SQL",Full-Time,2025-04-26
+285,Python Developer,Infosys,Pune,29,4,"SQL, AWS, Kafka, Power BI",Contract,2025-09-03
+286,Machine Learning Engineer,Cognizant,Delhi,27,1,"Kafka, Power BI, SQL, Python",Full-Time,2026-06-23
+287,Data Analyst,Deloitte,Delhi,7,5,"Azure, Machine Learning, Python",Full-Time,2026-01-25
+288,Data Analyst,Cognizant,Chennai,5,2,"Spark, Tableau, AWS, Python",Full-Time,2025-05-31
+289,Machine Learning Engineer,Infosys,Pune,34,6,"Tableau, Spark, AWS, Power BI, SQL",Contract,2025-04-03
+290,Python Developer,Flipkart,Pune,26,7,"Spark, Tableau, Airflow, SQL, Power BI",Internship,2025-02-25
+291,Data Engineer,Infosys,Delhi,15,1,"Kafka, Spark, SQL, Python",Internship,2025-11-08
+292,Data Analyst,Oracle,Mumbai,14,4,"Python, Kafka, SQL",Internship,2025-11-11
+293,Python Developer,Paytm,Pune,35,1,"SQL, Machine Learning, Azure",Contract,2026-02-03
+294,Data Engineer,Zoho,Chennai,9,4,"Airflow, Machine Learning, Kafka, Tableau",Contract,2025-04-20
+295,Data Analyst,IBM,Mumbai,14,8,"SQL, Airflow, Machine Learning, Azure",Internship,2025-11-15
+296,Data Scientist,Infosys,Pune,9,0,"SQL, Azure, Python",Full-Time,2026-06-14
+297,AI Engineer,IBM,Hyderabad,13,0,"Machine Learning, Airflow, Python, SQL, Kafka",Full-Time,2025-05-28
+298,Machine Learning Engineer,Microsoft,Bangalore,17,1,"SQL, Kafka, Tableau, Machine Learning",Internship,2025-01-15
+299,Data Analyst,Microsoft,Delhi,10,3,"Azure, Tableau, Power BI",Full-Time,2025-09-03
+300,Analytics Engineer,Microsoft,Delhi,32,2,"Power BI, AWS, Airflow",Contract,2026-04-25
+301,Machine Learning Engineer,Amazon,Bangalore,32,8,"Kafka, Machine Learning, Azure",Contract,2025-12-24
+302,Analytics Engineer,Capgemini,Bangalore,32,0,"Power BI, Azure, AWS, Kafka",Contract,2025-05-21
+303,Machine Learning Engineer,Oracle,Delhi,18,8,"Airflow, Python, AWS, Kafka",Internship,2026-03-27
+304,Data Engineer,Cognizant,Pune,12,8,"Kafka, Airflow, Spark",Contract,2025-08-26
+305,Data Engineer,Zoho,Delhi,9,9,"Airflow, SQL, Spark, Machine Learning",Full-Time,2025-10-09
+306,Python Developer,Paytm,Hyderabad,11,4,"Power BI, AWS, SQL, Machine Learning",Internship,2025-11-08
+307,Analytics Engineer,Deloitte,Hyderabad,25,0,"Airflow, Machine Learning, Python, Tableau, Azure",Internship,2025-09-09
+308,BI Analyst,Infosys,Hyderabad,6,1,"Tableau, Airflow, Power BI, SQL, Azure",Contract,2025-08-17
+309,Analytics Engineer,Zoho,Pune,25,1,"SQL, AWS, Spark",Internship,2026-06-15
+310,Data Analyst,Wipro,Delhi,11,10,"Machine Learning, Airflow, SQL",Full-Time,2025-01-15
+311,Data Analyst,Google,Mumbai,35,1,"Spark, SQL, Kafka, Machine Learning, Azure",Internship,2025-02-15
+312,Data Scientist,Deloitte,Bangalore,14,1,"Spark, Tableau, Kafka",Contract,2026-01-26
+313,Data Analyst,Wipro,Delhi,35,4,"Kafka, Power BI, Airflow, Tableau",Internship,2025-12-14
+314,Analytics Engineer,Wipro,Chennai,17,1,"Azure, Airflow, Machine Learning, Tableau",Full-Time,2026-03-10
+315,Analytics Engineer,TCS,Chennai,32,8,"Azure, Python, AWS, Machine Learning",Contract,2026-05-19
+316,BI Analyst,Amazon,Pune,5,9,"Machine Learning, Airflow, Azure, Spark",Contract,2026-05-16
+317,BI Analyst,Paytm,Bangalore,24,4,"Power BI, Airflow, AWS, Kafka",Contract,2025-12-14
+318,Data Scientist,TCS,Chennai,16,6,"Azure, Kafka, Python, SQL, Machine Learning",Full-Time,2025-01-30
+319,Python Developer,Accenture,Pune,14,8,"Airflow, Power BI, Azure, Tableau, Machine Learning",Contract,2025-11-28
+320,Python Developer,Infosys,Chennai,17,5,"Python, Airflow, Kafka, Power BI",Internship,2025-03-16
+321,Machine Learning Engineer,Amazon,Mumbai,33,3,"Machine Learning, Power BI, Tableau",Full-Time,2026-06-25
+322,Python Developer,Paytm,Delhi,18,9,"SQL, Azure, Airflow",Internship,2025-09-28
+323,Python Developer,Zoho,Hyderabad,28,5,"Spark, AWS, SQL, Tableau, Python",Contract,2025-02-01
+324,AI Engineer,Accenture,Bangalore,16,9,"Spark, Airflow, Machine Learning, Azure, Python",Contract,2025-11-08
+325,Machine Learning Engineer,Zoho,Pune,8,9,"Tableau, Machine Learning, Spark",Contract,2026-05-18
+326,Analytics Engineer,Cognizant,Bangalore,5,9,"Machine Learning, Power BI, Kafka",Full-Time,2025-08-12
+327,Analytics Engineer,TCS,Pune,17,2,"SQL, Machine Learning, Spark, Airflow",Contract,2025-04-22
+328,BI Analyst,Zoho,Mumbai,16,10,"Kafka, Tableau, Power BI, Python, Azure",Contract,2026-01-19
+329,Data Engineer,Microsoft,Pune,10,1,"SQL, Tableau, Spark, Power BI, Airflow",Full-Time,2026-02-13
+330,AI Engineer,Paytm,Delhi,18,9,"Python, Airflow, Power BI, Azure",Full-Time,2026-03-07
+331,Analytics Engineer,Microsoft,Mumbai,9,3,"Kafka, Airflow, Machine Learning, Tableau, Azure",Full-Time,2025-07-18
+332,Data Analyst,Google,Bangalore,14,2,"AWS, Tableau, SQL, Power BI, Airflow",Internship,2025-12-22
+333,Analytics Engineer,Google,Mumbai,18,8,"SQL, Tableau, AWS, Machine Learning, Airflow",Internship,2025-10-25
+334,Python Developer,Zoho,Hyderabad,27,6,"Tableau, SQL, Power BI, Python",Internship,2025-06-10
+335,BI Analyst,Microsoft,Pune,4,10,"Power BI, Machine Learning, Airflow, Tableau, Kafka",Internship,2025-08-10
+336,AI Engineer,Google,Delhi,26,7,"AWS, Kafka, Power BI, Tableau",Internship,2025-03-30
+337,Data Analyst,Microsoft,Bangalore,28,0,"Airflow, Kafka, Python, AWS, Azure",Contract,2025-06-18
+338,Data Engineer,Capgemini,Hyderabad,10,3,"SQL, Spark, Kafka",Full-Time,2026-04-22
+339,Data Analyst,Deloitte,Hyderabad,15,10,"SQL, Power BI, Machine Learning, Azure",Internship,2026-05-29
+340,Data Engineer,TCS,Bangalore,12,3,"Azure, Tableau, Spark, Kafka",Full-Time,2025-01-08
+341,Python Developer,Oracle,Hyderabad,14,0,"Azure, Power BI, SQL, Machine Learning, Tableau",Internship,2026-03-20
+342,BI Analyst,Amazon,Bangalore,6,1,"Airflow, Azure, Power BI, Spark, Kafka",Internship,2026-05-30
+343,Data Analyst,TCS,Pune,25,6,"Machine Learning, Python, Spark",Internship,2025-06-18
+344,AI Engineer,Infosys,Chennai,31,6,"Tableau, Kafka, Airflow, SQL, AWS",Contract,2025-07-14
+345,Machine Learning Engineer,Paytm,Hyderabad,35,3,"Airflow, Power BI, Machine Learning, AWS",Full-Time,2026-01-22
+346,BI Analyst,Oracle,Bangalore,26,7,"Power BI, Machine Learning, Kafka, Tableau",Internship,2025-08-25
+347,Machine Learning Engineer,Paytm,Hyderabad,11,5,"SQL, AWS, Python",Contract,2025-03-28
+348,Machine Learning Engineer,TCS,Pune,34,5,"Python, Tableau, Kafka, Spark",Contract,2026-01-23
+349,Data Scientist,Flipkart,Pune,22,1,"Spark, Power BI, Python, SQL, Kafka",Full-Time,2026-02-28
+350,Machine Learning Engineer,Microsoft,Bangalore,6,2,"Azure, Kafka, Airflow",Contract,2025-05-05
+351,BI Analyst,Amazon,Pune,9,10,"Spark, SQL, Kafka, Machine Learning",Internship,2025-11-11
+352,Python Developer,TCS,Bangalore,25,6,"Tableau, Power BI, Airflow, SQL, AWS",Contract,2025-11-01
+353,Data Engineer,Capgemini,Bangalore,25,3,"SQL, AWS, Spark, Kafka",Full-Time,2026-03-07
+354,Data Engineer,Zoho,Mumbai,23,3,"Airflow, Power BI, Machine Learning, AWS, Python",Internship,2025-08-25
+355,AI Engineer,Infosys,Bangalore,34,4,"Spark, Machine Learning, SQL",Internship,2026-03-13
+356,Data Analyst,Wipro,Mumbai,14,0,"Spark, Tableau, AWS, Kafka",Internship,2026-02-02
+357,Analytics Engineer,Amazon,Mumbai,9,5,"Spark, Kafka, AWS, Python, Airflow",Internship,2026-04-24
+358,Data Engineer,Oracle,Hyderabad,14,10,"Kafka, SQL, Power BI",Contract,2025-10-12
+359,Analytics Engineer,Zoho,Bangalore,11,9,"Machine Learning, AWS, Power BI, Spark",Internship,2025-06-11
+360,Machine Learning Engineer,TCS,Hyderabad,4,4,"Power BI, SQL, Kafka, Spark",Internship,2026-02-14
+361,Data Scientist,Cognizant,Pune,6,2,"Kafka, AWS, Azure, Tableau, Spark",Full-Time,2026-01-15
+362,Python Developer,Cognizant,Bangalore,28,7,"SQL, Power BI, Spark, Kafka",Internship,2026-01-17
+363,Data Engineer,Oracle,Chennai,17,4,"Kafka, Python, Airflow",Full-Time,2025-08-04
+364,Data Engineer,Microsoft,Pune,10,9,"Tableau, Kafka, Machine Learning, Airflow, SQL",Internship,2026-04-17
+365,Data Engineer,Microsoft,Bangalore,20,5,"Machine Learning, Power BI, AWS, Kafka, SQL",Internship,2026-05-08
+366,AI Engineer,Accenture,Pune,7,10,"Spark, Power BI, Machine Learning, Kafka",Internship,2025-10-29
+367,Data Engineer,Wipro,Chennai,11,8,"SQL, Airflow, Python, Kafka",Contract,2026-05-21
+368,Analytics Engineer,Accenture,Mumbai,9,0,"Azure, Machine Learning, Airflow, Python",Full-Time,2026-05-20
+369,Python Developer,Capgemini,Delhi,23,5,"Airflow, Machine Learning, Azure, SQL, AWS",Full-Time,2025-02-27
+370,AI Engineer,IBM,Pune,26,0,"Spark, AWS, Power BI",Internship,2025-10-03
+371,BI Analyst,Deloitte,Hyderabad,34,6,"Airflow, SQL, Machine Learning, Spark, Python",Full-Time,2025-08-06
+372,Data Engineer,Flipkart,Mumbai,35,4,"AWS, Python, Tableau",Full-Time,2025-02-10
+373,Data Engineer,Microsoft,Pune,14,0,"AWS, SQL, Machine Learning",Contract,2025-11-20
+374,Machine Learning Engineer,IBM,Pune,20,0,"Airflow, Python, Kafka",Full-Time,2025-03-05
+375,Data Analyst,Accenture,Pune,4,8,"AWS, Machine Learning, SQL, Kafka",Full-Time,2026-02-14
+376,Data Scientist,Oracle,Hyderabad,32,10,"Kafka, AWS, Power BI, Spark, Machine Learning",Internship,2026-04-27
+377,Data Engineer,Cognizant,Bangalore,31,2,"SQL, Spark, Tableau",Full-Time,2025-07-04
+378,AI Engineer,Infosys,Hyderabad,16,2,"Machine Learning, Airflow, Python, Spark, Kafka",Internship,2026-03-16
+379,Data Scientist,Deloitte,Pune,25,3,"Spark, Machine Learning, SQL, Python",Full-Time,2025-12-13
+380,Machine Learning Engineer,Flipkart,Hyderabad,23,9,"AWS, Machine Learning, Power BI, Spark, SQL",Internship,2026-01-24
+381,Data Scientist,Capgemini,Pune,27,8,"Python, Kafka, Tableau, AWS",Full-Time,2026-02-17
+382,Data Engineer,Flipkart,Bangalore,33,4,"AWS, Kafka, Spark, Airflow",Contract,2025-04-23
+383,BI Analyst,Microsoft,Bangalore,8,10,"Airflow, Python, SQL, Tableau, AWS",Internship,2025-10-16
+384,AI Engineer,Paytm,Mumbai,6,2,"Machine Learning, Spark, Python, Azure",Full-Time,2026-04-09
+385,Machine Learning Engineer,Microsoft,Bangalore,34,4,"SQL, Kafka, Power BI, Spark",Contract,2025-04-16
+386,BI Analyst,Capgemini,Pune,25,7,"Python, Machine Learning, Power BI, Kafka, Spark",Contract,2025-12-21
+387,Data Scientist,Cognizant,Hyderabad,14,7,"Kafka, Spark, Python",Full-Time,2026-02-28
+388,Python Developer,TCS,Chennai,6,7,"Kafka, SQL, Power BI, Tableau",Full-Time,2025-05-19
+389,AI Engineer,Zoho,Mumbai,14,6,"Azure, Airflow, Spark, Machine Learning, Kafka",Internship,2026-05-16
+390,Machine Learning Engineer,Zoho,Pune,14,7,"Spark, Kafka, Airflow",Internship,2026-01-22
+391,Machine Learning Engineer,Capgemini,Chennai,19,9,"Python, SQL, Machine Learning, Spark",Internship,2025-06-17
+392,Data Engineer,Zoho,Chennai,32,2,"Python, AWS, Machine Learning, Kafka",Contract,2025-07-15
+393,Data Scientist,Zoho,Pune,14,0,"Machine Learning, Airflow, Power BI",Internship,2026-01-08
+394,Analytics Engineer,Accenture,Mumbai,32,5,"Airflow, Spark, Tableau, Azure, AWS",Internship,2026-03-23
+395,Data Engineer,Wipro,Hyderabad,21,2,"Azure, Tableau, Kafka, Airflow",Internship,2025-03-24
+396,Data Analyst,Wipro,Mumbai,7,7,"Machine Learning, Spark, Kafka, Python",Full-Time,2025-11-02
+397,AI Engineer,Zoho,Mumbai,21,5,"Airflow, Azure, Power BI",Internship,2025-10-01
+398,Analytics Engineer,IBM,Pune,4,8,"Machine Learning, Azure, AWS, Airflow, SQL",Full-Time,2025-11-08
+399,Data Scientist,IBM,Chennai,24,4,"Machine Learning, Spark, Python, Kafka",Contract,2025-04-30
+400,Data Engineer,Flipkart,Mumbai,8,1,"Python, Airflow, Kafka",Internship,2025-06-08
+401,Data Engineer,Zoho,Delhi,17,3,"SQL, AWS, Python",Contract,2025-12-20
+402,AI Engineer,Oracle,Hyderabad,34,0,"Tableau, Kafka, Spark, Airflow, Power BI",Contract,2025-10-24
+403,Data Analyst,Google,Bangalore,23,1,"AWS, Airflow, Machine Learning, SQL",Internship,2025-07-19
+404,Python Developer,Capgemini,Delhi,16,7,"Kafka, Airflow, SQL, Azure, Power BI",Contract,2025-10-27
+405,Data Scientist,Zoho,Bangalore,18,5,"Power BI, SQL, Kafka",Full-Time,2025-12-02
+406,Python Developer,Capgemini,Delhi,23,2,"Spark, Tableau, Python, Power BI",Internship,2026-05-14
+407,Data Analyst,Infosys,Chennai,7,3,"Tableau, Azure, Python, Power BI, AWS",Contract,2025-05-04
+408,Data Analyst,Accenture,Chennai,9,0,"Power BI, Kafka, Python, Spark, AWS",Full-Time,2026-03-01
+409,BI Analyst,Paytm,Bangalore,6,2,"Power BI, Machine Learning, AWS, SQL, Kafka",Full-Time,2025-08-21
+410,Data Analyst,Microsoft,Bangalore,18,5,"AWS, Machine Learning, Azure, Tableau, Python",Internship,2025-01-14
+411,Data Scientist,TCS,Hyderabad,12,0,"Power BI, Tableau, Python, Spark, Airflow",Internship,2026-06-29
+412,Python Developer,Oracle,Bangalore,12,3,"Power BI, Airflow, Spark, AWS",Internship,2025-05-22
+413,Machine Learning Engineer,Capgemini,Chennai,9,0,"Machine Learning, Power BI, Tableau, AWS, Spark",Full-Time,2026-04-24
+414,Analytics Engineer,Cognizant,Chennai,6,5,"Power BI, Airflow, Azure, Spark, Python",Contract,2026-02-23
+415,Machine Learning Engineer,Flipkart,Hyderabad,24,3,"Power BI, Airflow, Spark, Python, Kafka",Internship,2026-03-06
+416,Data Engineer,Flipkart,Delhi,24,4,"AWS, Power BI, Airflow",Contract,2025-10-31
+417,Data Scientist,Deloitte,Bangalore,17,6,"Airflow, AWS, Power BI, Azure, Kafka",Contract,2026-03-12
+418,Analytics Engineer,Paytm,Hyderabad,11,6,"Power BI, Azure, Tableau, Python",Internship,2026-05-06
+419,Data Engineer,Amazon,Bangalore,24,10,"AWS, Tableau, Machine Learning",Full-Time,2025-01-08
+420,Data Scientist,Cognizant,Hyderabad,14,10,"Kafka, Azure, Tableau, Python",Contract,2025-12-28
+421,Data Engineer,Capgemini,Hyderabad,7,1,"Machine Learning, Azure, Kafka, Airflow, SQL",Full-Time,2026-01-12
+422,BI Analyst,Infosys,Delhi,26,1,"Airflow, Power BI, Spark, Tableau",Internship,2025-01-28
+423,Data Scientist,Google,Mumbai,31,2,"Power BI, Tableau, Airflow, AWS, Azure",Contract,2026-05-19
+424,Data Engineer,Infosys,Bangalore,17,8,"AWS, Python, Azure, Machine Learning, Power BI",Contract,2026-03-26
+425,AI Engineer,TCS,Delhi,13,3,"Tableau, Python, AWS, Power BI, Azure",Full-Time,2026-02-03
+426,Analytics Engineer,Wipro,Bangalore,32,10,"Spark, AWS, Power BI",Full-Time,2025-09-19
+427,Data Analyst,Wipro,Chennai,29,4,"Spark, Kafka, Machine Learning, Airflow",Contract,2026-01-07
+428,Data Analyst,Google,Bangalore,29,0,"Machine Learning, Tableau, Azure, Python",Contract,2025-07-27
+429,Python Developer,Infosys,Delhi,15,4,"Python, Tableau, Power BI, AWS",Contract,2025-03-16
+430,Data Scientist,Deloitte,Hyderabad,5,3,"Python, AWS, Tableau",Full-Time,2025-11-25
+431,BI Analyst,Cognizant,Mumbai,9,0,"Azure, AWS, Python, Airflow, Kafka",Internship,2025-08-01
+432,Data Engineer,Microsoft,Hyderabad,7,1,"Python, Spark, AWS",Internship,2025-10-12
+433,Data Scientist,Oracle,Delhi,7,1,"AWS, Airflow, Machine Learning, Tableau, Power BI",Contract,2026-04-08
+434,BI Analyst,Paytm,Delhi,22,8,"Azure, Power BI, Machine Learning, Kafka",Full-Time,2026-01-17
+435,Data Engineer,Cognizant,Pune,31,4,"Kafka, Azure, Machine Learning, SQL",Internship,2026-05-16
+436,Data Engineer,Google,Chennai,34,10,"Spark, Tableau, Python, Airflow, Machine Learning",Contract,2025-01-21
+437,Python Developer,Flipkart,Chennai,16,3,"AWS, Kafka, Tableau, Machine Learning, Spark",Contract,2026-03-18
+438,AI Engineer,TCS,Delhi,21,3,"Kafka, Power BI, Azure",Internship,2025-05-17
+439,Analytics Engineer,Microsoft,Mumbai,27,3,"Airflow, SQL, Python, Machine Learning",Contract,2025-05-31
+440,AI Engineer,Oracle,Pune,11,8,"Machine Learning, SQL, Power BI, AWS",Internship,2025-08-14
+441,Python Developer,Deloitte,Hyderabad,27,8,"Machine Learning, Python, AWS, Airflow, Spark",Contract,2025-11-19
+442,Python Developer,Flipkart,Bangalore,30,0,"Power BI, SQL, Machine Learning, Kafka",Full-Time,2026-01-22
+443,Python Developer,Paytm,Chennai,34,10,"Machine Learning, Azure, SQL",Full-Time,2026-02-08
+444,Analytics Engineer,Wipro,Pune,13,9,"Power BI, AWS, Airflow, Python, Kafka",Internship,2025-02-19
+445,Data Scientist,Capgemini,Mumbai,25,3,"Python, Airflow, Kafka, Azure",Internship,2025-11-04
+446,Python Developer,Google,Mumbai,12,4,"Machine Learning, Power BI, Tableau, SQL",Contract,2026-04-30
+447,Data Scientist,Infosys,Chennai,17,6,"AWS, Airflow, Power BI, Azure, SQL",Full-Time,2025-01-14
+448,Data Analyst,Google,Hyderabad,21,9,"Airflow, Python, Azure, SQL, Spark",Full-Time,2025-05-31
+449,Data Engineer,Accenture,Mumbai,18,3,"Spark, Python, Kafka",Contract,2025-07-16
+450,AI Engineer,Infosys,Hyderabad,12,2,"AWS, Machine Learning, Azure, Python, Kafka",Full-Time,2026-04-15
+451,Python Developer,Infosys,Delhi,33,9,"Python, SQL, Power BI",Contract,2026-05-18
+452,BI Analyst,IBM,Pune,15,9,"Airflow, SQL, AWS, Python",Full-Time,2026-06-24
+453,Python Developer,Wipro,Bangalore,23,9,"Python, SQL, Kafka",Internship,2026-03-01
+454,Python Developer,Oracle,Delhi,10,10,"Machine Learning, Python, Power BI, Kafka, Tableau",Full-Time,2026-02-23
+455,Data Engineer,Deloitte,Hyderabad,27,6,"Python, Airflow, SQL, Azure, Tableau",Internship,2025-03-26
+456,AI Engineer,Paytm,Chennai,34,2,"Spark, Machine Learning, Airflow, AWS, Kafka",Full-Time,2025-08-11
+457,Data Engineer,Zoho,Pune,34,5,"Azure, Machine Learning, Power BI, Python, Tableau",Full-Time,2026-06-10
+458,Python Developer,Microsoft,Bangalore,17,2,"Spark, AWS, Azure, Airflow",Internship,2026-06-15
+459,Analytics Engineer,Paytm,Hyderabad,34,5,"Machine Learning, Spark, Azure",Full-Time,2025-09-07
+460,Analytics Engineer,IBM,Pune,5,2,"Tableau, Azure, Airflow, Spark",Contract,2025-12-04
+461,Data Scientist,Capgemini,Pune,27,7,"Azure, Spark, Airflow",Internship,2025-01-14
+462,Data Engineer,Wipro,Chennai,31,1,"Kafka, Spark, Azure, Machine Learning",Full-Time,2025-07-12
+463,Python Developer,Zoho,Chennai,31,7,"Power BI, Python, AWS",Internship,2026-02-20
+464,Python Developer,Amazon,Bangalore,22,7,"Azure, Spark, Tableau, AWS, Power BI",Contract,2025-03-28
+465,BI Analyst,Deloitte,Bangalore,16,2,"Airflow, Kafka, Tableau, Power BI, AWS",Internship,2025-02-26
+466,Analytics Engineer,Zoho,Mumbai,8,2,"Python, Spark, Tableau, Machine Learning, AWS",Internship,2025-06-23
+467,Data Engineer,TCS,Hyderabad,23,7,"AWS, Power BI, Spark, Azure, SQL",Contract,2026-04-24
+468,AI Engineer,Microsoft,Mumbai,28,9,"Tableau, Kafka, SQL",Full-Time,2025-01-31
+469,Data Scientist,Capgemini,Hyderabad,7,6,"Power BI, Azure, Python, Airflow",Internship,2025-04-18
+470,AI Engineer,Flipkart,Delhi,9,5,"AWS, SQL, Power BI, Spark, Machine Learning",Internship,2025-03-21
+471,Data Scientist,TCS,Hyderabad,33,3,"SQL, AWS, Power BI",Full-Time,2025-11-14
+472,Machine Learning Engineer,Capgemini,Delhi,33,10,"Machine Learning, Python, Power BI, Tableau, SQL",Contract,2025-09-29
+473,Data Scientist,Wipro,Bangalore,8,6,"Spark, Tableau, Azure, Machine Learning, SQL",Internship,2026-02-04
+474,Data Engineer,Deloitte,Delhi,10,8,"Machine Learning, Python, AWS, Azure, Kafka",Full-Time,2025-07-28
+475,Data Scientist,Cognizant,Delhi,19,7,"Tableau, Machine Learning, Spark, Airflow, SQL",Internship,2026-06-30
+476,Python Developer,Accenture,Pune,29,3,"Power BI, Airflow, Azure, Spark",Full-Time,2025-01-06
+477,Data Analyst,Infosys,Bangalore,21,10,"Kafka, SQL, Python, AWS",Contract,2026-06-03
+478,Data Analyst,Microsoft,Hyderabad,24,9,"Tableau, AWS, Python, Airflow, Power BI",Contract,2025-09-22
+479,BI Analyst,Paytm,Chennai,18,9,"AWS, Power BI, Machine Learning",Full-Time,2025-07-19
+480,Python Developer,TCS,Bangalore,12,4,"Kafka, SQL, Python, Machine Learning, Airflow",Contract,2025-05-18
+481,Machine Learning Engineer,Amazon,Bangalore,29,8,"Machine Learning, Spark, Kafka, Tableau, Python",Contract,2025-08-06
+482,Analytics Engineer,Wipro,Hyderabad,14,9,"Machine Learning, Python, Spark",Full-Time,2026-03-14
+483,Python Developer,Infosys,Mumbai,28,9,"Kafka, AWS, Machine Learning, Tableau",Internship,2025-08-05
+484,BI Analyst,IBM,Pune,33,5,"Python, Machine Learning, Power BI, SQL",Full-Time,2025-01-29
+485,Analytics Engineer,Infosys,Hyderabad,26,1,"AWS, Tableau, Spark, Python, Azure",Full-Time,2025-07-30
+486,Machine Learning Engineer,Microsoft,Pune,29,0,"Power BI, Spark, Machine Learning, Python",Internship,2025-03-03
+487,Data Analyst,Oracle,Pune,28,2,"Power BI, Kafka, Tableau, AWS",Full-Time,2026-03-21
+488,Data Engineer,IBM,Pune,31,10,"Python, AWS, Kafka",Full-Time,2026-05-14
+489,AI Engineer,Infosys,Mumbai,22,1,"Power BI, Azure, Spark, Machine Learning",Contract,2025-06-25
+490,Data Analyst,Microsoft,Pune,23,9,"Machine Learning, Tableau, Kafka",Full-Time,2025-05-12
+491,Data Engineer,Microsoft,Pune,25,4,"Spark, Azure, Power BI, Tableau",Internship,2026-02-02
+492,Python Developer,Flipkart,Hyderabad,7,5,"Power BI, Spark, Tableau",Contract,2026-03-31
+493,Analytics Engineer,Deloitte,Delhi,22,10,"Kafka, Airflow, Power BI",Full-Time,2025-04-04
+494,Data Analyst,Flipkart,Hyderabad,15,9,"AWS, Spark, Azure",Internship,2026-04-22
+495,Data Analyst,Google,Bangalore,17,9,"Python, Airflow, Azure, Power BI, AWS",Contract,2025-11-26
+496,AI Engineer,Amazon,Delhi,33,0,"Airflow, Power BI, Kafka, Spark",Contract,2026-05-01
+497,Data Engineer,Zoho,Mumbai,12,5,"Power BI, SQL, Python",Contract,2025-06-13
+498,Data Analyst,Amazon,Bangalore,27,7,"Machine Learning, SQL, Spark",Contract,2025-03-16
+499,Python Developer,Amazon,Bangalore,25,8,"Airflow, AWS, Machine Learning",Internship,2025-07-20
+500,Data Scientist,Flipkart,Hyderabad,25,3,"Python, AWS, SQL, Airflow, Power BI",Full-Time,2025-01-08
+501,Python Developer,Paytm,Mumbai,33,8,"Machine Learning, Kafka, Spark, Power BI",Internship,2025-07-17
+502,Python Developer,Cognizant,Mumbai,26,7,"SQL, Power BI, Spark, AWS, Machine Learning",Contract,2025-06-12
+503,Analytics Engineer,Zoho,Mumbai,29,5,"Airflow, Machine Learning, Azure, Kafka",Contract,2025-03-31
+504,AI Engineer,TCS,Hyderabad,28,0,"Spark, Kafka, SQL, Tableau",Internship,2025-11-21
+505,Machine Learning Engineer,TCS,Bangalore,8,1,"Machine Learning, AWS, Azure, Python, Kafka",Full-Time,2026-06-17
+506,Machine Learning Engineer,TCS,Mumbai,25,4,"AWS, SQL, Kafka",Full-Time,2026-04-24
+507,AI Engineer,Paytm,Chennai,8,0,"AWS, Airflow, Azure",Full-Time,2026-05-21
+508,AI Engineer,Accenture,Pune,4,10,"Spark, Azure, Python",Contract,2026-04-01
+509,Data Engineer,Zoho,Delhi,16,8,"Spark, AWS, Python, Kafka",Full-Time,2025-05-10
+510,Data Analyst,IBM,Delhi,16,0,"Machine Learning, Tableau, Python",Internship,2026-04-21
+511,BI Analyst,Capgemini,Chennai,4,8,"Kafka, Azure, Machine Learning, AWS, Tableau",Full-Time,2025-04-08
+512,Data Engineer,Accenture,Bangalore,29,10,"SQL, Python, Machine Learning",Contract,2025-04-03
+513,AI Engineer,Accenture,Pune,27,2,"Tableau, Spark, Machine Learning",Full-Time,2025-10-01
+514,Python Developer,Microsoft,Delhi,19,10,"Python, Tableau, Azure, Airflow, AWS",Contract,2026-01-04
+515,AI Engineer,Deloitte,Bangalore,14,4,"AWS, Azure, SQL, Spark, Machine Learning",Internship,2025-08-29
+516,BI Analyst,Google,Chennai,6,4,"Airflow, SQL, Tableau, Kafka",Full-Time,2025-10-28
+517,Machine Learning Engineer,Cognizant,Chennai,16,9,"Python, Power BI, Tableau, AWS",Internship,2026-03-21
+518,Data Analyst,Flipkart,Mumbai,12,6,"Azure, Python, Spark, Airflow",Contract,2025-08-23
+519,Data Engineer,Flipkart,Delhi,30,6,"Tableau, AWS, SQL, Azure",Full-Time,2025-05-28
+520,Data Engineer,Wipro,Chennai,18,10,"Spark, SQL, Azure",Internship,2025-05-10
+521,BI Analyst,Wipro,Delhi,17,1,"Tableau, Python, Machine Learning, SQL, Azure",Internship,2025-01-05
+522,Machine Learning Engineer,Flipkart,Delhi,19,4,"Power BI, Python, Tableau",Internship,2025-07-31
+523,AI Engineer,Amazon,Delhi,10,8,"Azure, Python, Machine Learning, Power BI",Full-Time,2025-10-26
+524,Data Scientist,Microsoft,Bangalore,26,3,"Kafka, Machine Learning, Spark",Contract,2025-02-13
+525,Analytics Engineer,Accenture,Hyderabad,33,0,"Tableau, Kafka, AWS, Airflow",Contract,2025-02-06
+526,Analytics Engineer,Oracle,Bangalore,17,5,"Tableau, Kafka, Airflow",Full-Time,2026-01-26
+527,Data Analyst,Infosys,Chennai,35,3,"Power BI, Azure, Python, Machine Learning, Tableau",Internship,2026-01-29
+528,Data Engineer,Zoho,Pune,18,6,"SQL, Airflow, AWS, Spark, Tableau",Contract,2025-01-16
+529,Data Analyst,Flipkart,Delhi,4,5,"Spark, Machine Learning, Python",Full-Time,2025-03-25
+530,Analytics Engineer,Google,Pune,29,4,"SQL, Airflow, Azure, AWS, Python",Internship,2026-01-02
+531,BI Analyst,Capgemini,Chennai,17,4,"Airflow, SQL, Python",Contract,2026-02-13
+532,Data Scientist,Capgemini,Bangalore,33,1,"SQL, Machine Learning, Tableau",Contract,2025-12-18
+533,Data Engineer,Amazon,Hyderabad,19,1,"SQL, AWS, Power BI, Azure, Tableau",Contract,2026-06-23
+534,Data Analyst,Google,Pune,26,5,"AWS, Machine Learning, Power BI, Spark",Internship,2026-05-19
+535,AI Engineer,Wipro,Bangalore,16,6,"AWS, Spark, Tableau",Contract,2025-07-28
+536,BI Analyst,Oracle,Hyderabad,25,6,"Kafka, Power BI, AWS",Internship,2025-12-21
+537,Python Developer,Zoho,Chennai,10,3,"Airflow, Spark, SQL, Kafka, Python",Contract,2026-01-09
+538,Data Scientist,IBM,Hyderabad,18,8,"Spark, AWS, SQL",Internship,2025-11-13
+539,Machine Learning Engineer,Amazon,Delhi,12,7,"Azure, Spark, Machine Learning",Full-Time,2025-08-22
+540,Machine Learning Engineer,Cognizant,Hyderabad,4,9,"SQL, Tableau, Spark",Full-Time,2025-02-13
+541,Data Engineer,Cognizant,Hyderabad,21,1,"Spark, Power BI, Python",Internship,2025-12-08
+542,Data Engineer,Zoho,Mumbai,28,8,"SQL, AWS, Python, Azure",Contract,2025-11-29
+543,AI Engineer,IBM,Mumbai,33,9,"SQL, AWS, Airflow",Internship,2025-05-30
+544,Data Engineer,Paytm,Bangalore,23,7,"Kafka, Python, Airflow",Full-Time,2025-03-04
+545,AI Engineer,Amazon,Hyderabad,19,6,"Airflow, Tableau, Machine Learning, Python",Internship,2025-11-18
+546,Data Scientist,Zoho,Bangalore,34,2,"Power BI, Python, Kafka, Tableau",Internship,2026-02-10
+547,Machine Learning Engineer,Capgemini,Mumbai,11,9,"Tableau, SQL, Azure, AWS, Python",Full-Time,2025-09-21
+548,BI Analyst,Capgemini,Chennai,34,4,"Kafka, Machine Learning, Airflow, SQL",Internship,2026-05-23
+549,AI Engineer,Infosys,Hyderabad,16,8,"Azure, Machine Learning, SQL, AWS",Contract,2025-02-26
+550,BI Analyst,Google,Hyderabad,25,2,"Airflow, Tableau, Kafka",Contract,2025-06-18
+551,Data Scientist,Deloitte,Pune,25,1,"Power BI, SQL, Python, Tableau, Airflow",Internship,2025-06-20
+552,Python Developer,Wipro,Delhi,33,1,"Power BI, Spark, Python, Machine Learning",Contract,2025-04-21
+553,Machine Learning Engineer,TCS,Bangalore,9,5,"AWS, Spark, Machine Learning, Python",Internship,2026-02-09
+554,Data Engineer,Capgemini,Chennai,19,2,"Machine Learning, SQL, Power BI, Kafka, Tableau",Contract,2025-08-12
+555,Data Scientist,Capgemini,Pune,13,4,"AWS, Power BI, Airflow, Python",Contract,2025-04-17
+556,Python Developer,Microsoft,Delhi,24,9,"AWS, Power BI, Kafka",Internship,2026-04-25
+557,Machine Learning Engineer,Flipkart,Chennai,4,9,"Tableau, Power BI, AWS",Internship,2025-08-26
+558,Data Engineer,Amazon,Pune,13,0,"Python, Tableau, Machine Learning, Power BI, Azure",Full-Time,2026-01-03
+559,AI Engineer,Paytm,Mumbai,21,1,"Power BI, Machine Learning, Airflow, Kafka, Spark",Contract,2025-01-07
+560,Machine Learning Engineer,Amazon,Hyderabad,4,10,"SQL, Kafka, Airflow",Internship,2025-04-25
+561,Data Scientist,Microsoft,Chennai,7,7,"Azure, Airflow, Kafka",Contract,2025-09-21
+562,Analytics Engineer,Capgemini,Bangalore,21,3,"SQL, Kafka, AWS, Tableau",Internship,2026-01-14
+563,Python Developer,Cognizant,Pune,29,1,"Azure, Power BI, Python, Airflow",Internship,2025-09-11
+564,BI Analyst,Flipkart,Hyderabad,17,7,"Tableau, Python, Azure",Full-Time,2026-06-03
+565,BI Analyst,TCS,Delhi,17,8,"Machine Learning, AWS, Python, Tableau",Internship,2026-04-07
+566,Data Engineer,Infosys,Mumbai,34,0,"Python, AWS, Power BI",Internship,2025-01-21
+567,Analytics Engineer,Accenture,Chennai,24,0,"Spark, Python, Airflow",Contract,2025-07-09
+568,Machine Learning Engineer,IBM,Hyderabad,23,10,"Python, Kafka, Machine Learning, Azure, Airflow",Internship,2025-01-26
+569,Data Analyst,Google,Pune,32,0,"AWS, Tableau, SQL",Internship,2026-05-26
+570,Python Developer,IBM,Chennai,32,8,"Power BI, Machine Learning, Kafka, Azure, Python",Internship,2026-06-18
+571,Data Engineer,Accenture,Mumbai,8,7,"AWS, Power BI, Tableau, SQL, Azure",Internship,2026-02-12
+572,AI Engineer,Wipro,Bangalore,22,10,"Spark, SQL, Power BI, Azure, Kafka",Internship,2025-06-12
+573,Machine Learning Engineer,Microsoft,Chennai,15,5,"Machine Learning, Airflow, Azure, Kafka, Spark",Full-Time,2025-01-30
+574,Data Scientist,Zoho,Hyderabad,19,0,"Azure, Python, AWS, Power BI",Internship,2026-06-18
+575,Machine Learning Engineer,Infosys,Mumbai,15,9,"Python, Airflow, SQL",Full-Time,2025-01-12
+576,Machine Learning Engineer,Accenture,Bangalore,5,1,"SQL, Azure, Power BI, Python, AWS",Full-Time,2025-07-19
+577,Analytics Engineer,Oracle,Pune,8,5,"Tableau, Machine Learning, Power BI, AWS, Spark",Contract,2025-08-11
+578,BI Analyst,Google,Delhi,28,4,"SQL, Python, Azure, Power BI",Full-Time,2025-08-06
+579,Analytics Engineer,Deloitte,Pune,17,7,"Python, Azure, Airflow",Contract,2025-03-12
+580,Data Engineer,Zoho,Bangalore,26,4,"AWS, Power BI, Kafka",Contract,2026-05-19
+581,BI Analyst,Paytm,Chennai,30,10,"Machine Learning, Azure, Airflow",Full-Time,2025-09-05
+582,Machine Learning Engineer,Infosys,Hyderabad,22,0,"Machine Learning, Power BI, Azure",Full-Time,2025-04-24
+583,BI Analyst,Wipro,Bangalore,5,4,"Machine Learning, Python, Tableau, Azure, AWS",Full-Time,2026-01-06
+584,BI Analyst,IBM,Pune,29,2,"Azure, Airflow, Tableau",Full-Time,2025-12-24
+585,AI Engineer,Paytm,Hyderabad,4,10,"Spark, Azure, Machine Learning, SQL, Power BI",Contract,2025-02-23
+586,AI Engineer,Flipkart,Chennai,21,2,"Azure, AWS, Spark, Kafka",Contract,2026-01-16
+587,BI Analyst,Oracle,Mumbai,25,6,"Airflow, Machine Learning, SQL, Spark, Azure",Internship,2025-04-13
+588,Python Developer,Amazon,Bangalore,30,6,"Azure, Power BI, Python, SQL, Machine Learning",Internship,2025-08-07
+589,AI Engineer,Capgemini,Pune,8,1,"Azure, Spark, AWS",Full-Time,2025-05-29
+590,Python Developer,Flipkart,Mumbai,13,6,"Machine Learning, Power BI, Airflow, Kafka, Tableau",Internship,2025-04-21
+591,Data Scientist,Google,Pune,22,6,"Tableau, Python, Machine Learning, Power BI",Internship,2026-06-25
+592,Data Analyst,Cognizant,Chennai,32,0,"Python, Tableau, Machine Learning, AWS, Airflow",Internship,2026-06-14
+593,Data Scientist,Cognizant,Mumbai,5,0,"Tableau, SQL, Power BI, Azure",Contract,2025-04-24
+594,Analytics Engineer,Infosys,Bangalore,19,4,"SQL, Airflow, Tableau, Kafka, Machine Learning",Contract,2025-08-28
+595,Machine Learning Engineer,Accenture,Bangalore,18,8,"SQL, Kafka, Power BI, Python, Airflow",Contract,2026-04-06
+596,Machine Learning Engineer,Cognizant,Bangalore,22,9,"Machine Learning, SQL, Azure",Full-Time,2026-04-27
+597,AI Engineer,Google,Delhi,13,4,"Tableau, Azure, Machine Learning, Airflow, Python",Internship,2025-09-04
+598,Data Analyst,Deloitte,Delhi,9,0,"Power BI, Spark, Machine Learning",Internship,2025-04-16
+599,Python Developer,Infosys,Chennai,22,10,"AWS, SQL, Power BI, Kafka, Spark",Contract,2025-04-01
+600,Machine Learning Engineer,Amazon,Bangalore,7,6,"Airflow, Tableau, Azure",Full-Time,2025-12-10
+601,Data Engineer,Wipro,Mumbai,24,5,"Airflow, Power BI, Python, Tableau, Kafka",Full-Time,2025-06-03
+602,Analytics Engineer,Capgemini,Pune,15,9,"Kafka, Python, Machine Learning",Full-Time,2026-02-02
+603,Data Analyst,Google,Mumbai,18,6,"SQL, Kafka, Azure",Internship,2025-03-09
+604,AI Engineer,Cognizant,Hyderabad,4,7,"Airflow, Azure, Machine Learning, Kafka",Full-Time,2026-01-12
+605,Analytics Engineer,Capgemini,Hyderabad,18,5,"Tableau, Python, Airflow, Machine Learning, Kafka",Full-Time,2025-02-21
+606,Data Analyst,Wipro,Pune,34,1,"Python, Azure, Kafka, Power BI",Full-Time,2025-03-18
+607,Data Analyst,Microsoft,Hyderabad,29,9,"SQL, Tableau, Machine Learning",Contract,2026-05-31
+608,Machine Learning Engineer,Paytm,Mumbai,7,8,"Machine Learning, AWS, Tableau",Full-Time,2025-05-28
+609,Python Developer,Infosys,Chennai,22,1,"Azure, Power BI, SQL, Machine Learning, Airflow",Contract,2025-10-16
+610,AI Engineer,Accenture,Bangalore,17,7,"AWS, Airflow, Tableau, Power BI",Internship,2025-10-28
+611,Data Scientist,TCS,Bangalore,35,1,"Power BI, Python, Machine Learning, Tableau, Airflow",Internship,2026-03-07
+612,Analytics Engineer,Infosys,Mumbai,33,5,"Tableau, Kafka, Spark",Full-Time,2025-05-07
+613,Python Developer,Flipkart,Chennai,7,5,"AWS, SQL, Tableau, Spark, Machine Learning",Full-Time,2025-01-24
+614,Machine Learning Engineer,Accenture,Mumbai,30,7,"SQL, Airflow, Python, Tableau",Internship,2025-12-22
+615,Data Analyst,Microsoft,Bangalore,6,9,"SQL, Kafka, Azure",Internship,2025-05-10
+616,Data Engineer,Accenture,Hyderabad,28,9,"Tableau, Python, Airflow, Power BI, Kafka",Full-Time,2025-10-28
+617,Data Analyst,IBM,Pune,15,4,"Power BI, Kafka, Azure",Contract,2025-07-24
+618,Machine Learning Engineer,Deloitte,Pune,30,1,"Spark, Kafka, Azure",Contract,2025-04-29
+619,BI Analyst,Infosys,Mumbai,34,4,"AWS, Power BI, Spark, Airflow, Azure",Contract,2026-01-02
+620,Data Analyst,TCS,Mumbai,5,10,"Azure, SQL, Python",Full-Time,2025-07-16
+621,Machine Learning Engineer,Capgemini,Mumbai,27,7,"Power BI, Airflow, SQL, Spark, AWS",Full-Time,2025-03-29
+622,AI Engineer,Google,Mumbai,30,5,"Machine Learning, Tableau, SQL, Airflow, Spark",Full-Time,2025-07-29
+623,Analytics Engineer,Accenture,Delhi,14,8,"Spark, SQL, Power BI, Machine Learning, Airflow",Internship,2025-02-14
+624,AI Engineer,Deloitte,Chennai,13,5,"AWS, Spark, Machine Learning, Power BI",Full-Time,2025-08-02
+625,AI Engineer,Capgemini,Mumbai,23,1,"Tableau, Kafka, Machine Learning",Internship,2025-11-05
+626,Python Developer,Oracle,Pune,33,9,"Machine Learning, Airflow, Python, SQL, AWS",Contract,2025-06-08
+627,Data Analyst,IBM,Pune,32,5,"Machine Learning, Power BI, Python",Internship,2025-09-16
+628,Data Engineer,Flipkart,Hyderabad,17,6,"Azure, Kafka, AWS, Airflow, Python",Internship,2025-09-23
+629,Data Scientist,Cognizant,Bangalore,35,9,"Azure, Tableau, Power BI",Internship,2026-02-18
+630,Data Analyst,Amazon,Pune,26,4,"Machine Learning, Azure, Tableau, SQL",Internship,2025-09-08
+631,BI Analyst,TCS,Delhi,22,7,"AWS, Machine Learning, Tableau, SQL, Python",Full-Time,2025-08-05
+632,Data Engineer,Amazon,Delhi,25,10,"Azure, Power BI, Machine Learning, Python",Internship,2025-04-08
+633,Data Analyst,Capgemini,Hyderabad,6,5,"Python, AWS, Spark, Airflow",Internship,2025-08-08
+634,Data Scientist,TCS,Bangalore,11,2,"Azure, Airflow, Python",Full-Time,2026-01-19
+635,Data Analyst,Accenture,Hyderabad,30,1,"Python, Kafka, Airflow, Power BI, Spark",Contract,2025-11-30
+636,Data Scientist,Amazon,Pune,10,1,"Machine Learning, Tableau, Python, Spark",Contract,2026-01-22
+637,BI Analyst,Deloitte,Pune,13,3,"Power BI, Spark, Machine Learning",Full-Time,2026-02-11
+638,Data Engineer,Oracle,Chennai,16,2,"AWS, Spark, Python, Airflow",Internship,2025-11-24
+639,Data Engineer,Amazon,Bangalore,28,0,"Kafka, AWS, Airflow, Spark",Internship,2025-03-22
+640,Python Developer,Google,Delhi,5,2,"SQL, Airflow, AWS",Full-Time,2025-11-25
+641,Python Developer,Amazon,Bangalore,21,10,"Spark, Azure, Airflow",Internship,2025-12-08
+642,Machine Learning Engineer,Cognizant,Chennai,11,7,"Kafka, Tableau, AWS, Power BI, SQL",Full-Time,2025-10-17
+643,Data Analyst,Google,Pune,20,0,"Azure, SQL, Kafka, Spark, Tableau",Internship,2025-02-07
+644,Machine Learning Engineer,Paytm,Hyderabad,9,6,"Python, Tableau, Azure, Airflow, Power BI",Internship,2026-01-18
+645,Data Analyst,IBM,Delhi,8,0,"AWS, SQL, Airflow, Azure",Internship,2026-03-07
+646,BI Analyst,Cognizant,Chennai,25,9,"SQL, Azure, Tableau",Full-Time,2025-04-06
+647,Analytics Engineer,Deloitte,Bangalore,6,1,"Machine Learning, AWS, Tableau, SQL",Full-Time,2026-05-22
+648,Analytics Engineer,IBM,Delhi,4,7,"Machine Learning, Airflow, AWS, Tableau",Internship,2026-03-16
+649,BI Analyst,Infosys,Mumbai,6,0,"Azure, AWS, SQL, Power BI",Full-Time,2025-11-26
+650,BI Analyst,Infosys,Mumbai,21,0,"Python, Spark, Tableau, Machine Learning, Airflow",Full-Time,2025-06-26
+651,Data Analyst,Wipro,Hyderabad,16,9,"Azure, Power BI, Machine Learning, Python, Kafka",Internship,2025-01-29
+652,Python Developer,Paytm,Mumbai,33,6,"Spark, Python, Azure, Power BI",Full-Time,2026-03-31
+653,AI Engineer,Google,Bangalore,6,4,"Power BI, Tableau, AWS, Python",Full-Time,2025-03-27
+654,Machine Learning Engineer,Google,Chennai,30,4,"Python, AWS, Spark, Airflow, Power BI",Contract,2026-06-09
+655,AI Engineer,Zoho,Chennai,29,7,"Spark, AWS, Kafka, Tableau",Contract,2026-01-29
+656,Data Engineer,Accenture,Pune,30,10,"Spark, Airflow, Python",Internship,2026-04-11
+657,Machine Learning Engineer,Infosys,Hyderabad,9,4,"Tableau, Azure, Airflow, Power BI",Internship,2025-01-16
+658,BI Analyst,Deloitte,Chennai,17,9,"SQL, Machine Learning, Kafka, AWS, Power BI",Contract,2025-10-17
+659,Python Developer,TCS,Chennai,6,3,"Kafka, Airflow, Tableau, Power BI, AWS",Full-Time,2026-04-23
+660,Machine Learning Engineer,Google,Delhi,33,7,"Python, Airflow, Tableau",Full-Time,2026-02-18
+661,Analytics Engineer,IBM,Pune,18,10,"Kafka, SQL, Power BI, Spark, AWS",Internship,2025-03-21
+662,Python Developer,Capgemini,Mumbai,9,9,"Spark, SQL, Airflow, Machine Learning, AWS",Contract,2026-06-01
+663,Data Analyst,Microsoft,Hyderabad,30,3,"SQL, Python, Azure",Contract,2026-05-03
+664,Analytics Engineer,Amazon,Bangalore,19,2,"Tableau, Power BI, Kafka",Internship,2025-12-07
+665,Machine Learning Engineer,Paytm,Delhi,26,6,"Machine Learning, Tableau, Power BI, AWS",Contract,2026-04-15
+666,BI Analyst,Infosys,Pune,24,9,"SQL, Spark, Tableau, Python",Internship,2025-04-21
+667,Data Analyst,Cognizant,Mumbai,35,1,"Airflow, Tableau, Machine Learning, Power BI, SQL",Contract,2026-01-11
+668,Data Engineer,Microsoft,Bangalore,4,9,"Python, Tableau, Kafka",Contract,2025-02-16
+669,BI Analyst,Amazon,Pune,19,5,"Machine Learning, Azure, Airflow",Full-Time,2025-02-12
+670,BI Analyst,Accenture,Chennai,23,4,"Airflow, Spark, Python, AWS",Full-Time,2026-04-22
+671,Data Analyst,Paytm,Mumbai,6,9,"Power BI, AWS, Machine Learning, Kafka",Internship,2026-03-07
+672,Data Scientist,Accenture,Hyderabad,15,4,"SQL, AWS, Machine Learning",Internship,2026-06-06
+673,Data Scientist,Zoho,Chennai,27,9,"Kafka, SQL, Power BI, Python, AWS",Contract,2026-05-03
+674,Machine Learning Engineer,Deloitte,Hyderabad,7,7,"Machine Learning, SQL, Tableau",Full-Time,2025-06-27
+675,Data Engineer,Accenture,Delhi,5,6,"SQL, Spark, Tableau, Kafka, Azure",Full-Time,2026-02-28
+676,Data Scientist,Paytm,Delhi,24,7,"Spark, Power BI, Machine Learning, Kafka, SQL",Full-Time,2025-03-30
+677,Data Engineer,Accenture,Chennai,19,8,"Python, SQL, Spark, Machine Learning",Internship,2026-01-10
+678,Data Engineer,Oracle,Delhi,12,5,"Spark, Power BI, Azure, Airflow",Internship,2026-03-10
+679,BI Analyst,TCS,Pune,10,8,"Machine Learning, Tableau, Azure, Spark",Full-Time,2025-02-28
+680,AI Engineer,Wipro,Bangalore,29,2,"Spark, Azure, SQL, Machine Learning",Contract,2025-01-02
+681,Analytics Engineer,Accenture,Bangalore,21,5,"Spark, Azure, SQL, Tableau, Python",Contract,2026-02-04
+682,AI Engineer,Wipro,Hyderabad,17,10,"Kafka, Python, Spark",Contract,2026-06-20
+683,Machine Learning Engineer,Microsoft,Pune,20,7,"Airflow, AWS, Spark, Machine Learning, SQL",Internship,2025-01-25
+684,Data Engineer,Wipro,Mumbai,32,8,"Python, Tableau, Power BI, Kafka",Internship,2025-03-18
+685,BI Analyst,Deloitte,Bangalore,5,9,"Airflow, Power BI, SQL, Tableau, Python",Full-Time,2025-06-27
+686,Machine Learning Engineer,Microsoft,Delhi,8,0,"Machine Learning, Airflow, Azure, SQL, Power BI",Contract,2025-12-08
+687,Data Engineer,Deloitte,Chennai,24,10,"Azure, Spark, Machine Learning, AWS, SQL",Internship,2025-10-11
+688,AI Engineer,TCS,Chennai,6,6,"Python, Azure, Machine Learning, AWS, Airflow",Contract,2025-09-28
+689,BI Analyst,Accenture,Pune,12,2,"Python, Azure, Machine Learning, Spark",Internship,2025-07-28
+690,BI Analyst,TCS,Bangalore,7,7,"Power BI, Azure, AWS",Contract,2025-08-08
+691,Data Engineer,Cognizant,Hyderabad,6,7,"Kafka, Machine Learning, AWS, Azure, Power BI",Contract,2025-03-03
+692,AI Engineer,Paytm,Bangalore,21,10,"SQL, Machine Learning, Azure, AWS",Full-Time,2026-02-04
+693,Data Engineer,Microsoft,Hyderabad,27,9,"Azure, Python, Spark, Airflow",Internship,2025-09-03
+694,Python Developer,Accenture,Pune,19,4,"Azure, Machine Learning, Spark",Internship,2025-09-07
+695,Data Scientist,TCS,Mumbai,24,6,"Power BI, Tableau, Kafka, SQL",Contract,2026-01-15
+696,Data Engineer,IBM,Chennai,13,8,"Power BI, Azure, SQL, Python, Tableau",Full-Time,2025-01-20
+697,Machine Learning Engineer,Google,Hyderabad,22,10,"Airflow, Python, Kafka, Spark",Internship,2026-01-22
+698,Data Scientist,Infosys,Bangalore,22,7,"Azure, Spark, Power BI, Tableau, Python",Internship,2026-04-03
+699,Data Engineer,Flipkart,Hyderabad,28,0,"SQL, Tableau, Spark, Airflow, Kafka",Full-Time,2025-03-25
+700,Data Scientist,Capgemini,Pune,21,7,"Azure, AWS, Spark, Python",Contract,2026-01-14
+701,Machine Learning Engineer,IBM,Chennai,14,1,"Azure, SQL, Tableau, Python",Full-Time,2025-09-11
+702,Data Engineer,Cognizant,Delhi,31,6,"Azure, Kafka, Spark, Power BI",Full-Time,2025-12-11
+703,Data Engineer,Zoho,Hyderabad,7,6,"Tableau, Machine Learning, Power BI",Full-Time,2025-06-18
+704,Machine Learning Engineer,Deloitte,Mumbai,20,6,"SQL, Python, Airflow",Internship,2025-09-13
+705,Data Engineer,Zoho,Bangalore,24,9,"Python, AWS, Tableau, Power BI",Contract,2025-03-13
+706,BI Analyst,Accenture,Delhi,21,10,"AWS, Tableau, Azure",Internship,2025-08-09
+707,Machine Learning Engineer,Capgemini,Chennai,7,7,"SQL, Machine Learning, Airflow, Spark",Internship,2026-02-03
+708,Data Engineer,IBM,Bangalore,33,1,"Power BI, Azure, Kafka, Spark, Machine Learning",Full-Time,2025-04-20
+709,Data Analyst,Flipkart,Bangalore,34,8,"Tableau, Python, Machine Learning",Internship,2025-01-30
+710,Data Engineer,Infosys,Pune,5,3,"Python, SQL, AWS, Machine Learning",Internship,2025-02-02
+711,Data Engineer,Zoho,Bangalore,12,8,"Spark, Airflow, SQL",Contract,2025-01-18
+712,Data Engineer,Flipkart,Chennai,4,8,"Tableau, Power BI, AWS, Python, Spark",Contract,2025-07-27
+713,Data Scientist,Wipro,Pune,14,0,"Python, Machine Learning, Azure, Kafka, Power BI",Internship,2025-09-05
+714,Machine Learning Engineer,Flipkart,Pune,35,6,"Spark, SQL, Power BI, Machine Learning",Contract,2025-08-29
+715,BI Analyst,Wipro,Bangalore,22,10,"Airflow, Azure, Machine Learning, Kafka",Internship,2025-02-19
+716,Data Analyst,Capgemini,Hyderabad,14,1,"SQL, Tableau, Python, Azure, Airflow",Internship,2026-06-05
+717,Data Scientist,TCS,Chennai,10,6,"Python, Azure, Machine Learning, Airflow, Tableau",Contract,2025-10-19
+718,Python Developer,Deloitte,Bangalore,33,8,"Tableau, Power BI, Airflow, SQL",Contract,2026-06-17
+719,AI Engineer,Infosys,Hyderabad,34,8,"Azure, Power BI, AWS, Spark, Machine Learning",Full-Time,2025-06-08
+720,Analytics Engineer,Cognizant,Chennai,15,9,"AWS, Spark, SQL",Contract,2026-04-08
+721,Analytics Engineer,Amazon,Chennai,7,1,"Airflow, AWS, Tableau",Full-Time,2025-06-17
+722,Python Developer,Flipkart,Mumbai,13,3,"Kafka, SQL, Spark, Python",Internship,2025-05-28
+723,Data Analyst,Oracle,Delhi,18,3,"SQL, Spark, Tableau, Power BI",Full-Time,2025-11-08
+724,Data Scientist,Deloitte,Bangalore,10,8,"Kafka, Power BI, Python, Azure",Full-Time,2025-12-14
+725,Data Analyst,Google,Mumbai,13,7,"Kafka, Airflow, Machine Learning",Contract,2026-01-15
+726,Analytics Engineer,Capgemini,Chennai,11,0,"Kafka, AWS, Airflow, Tableau, Spark",Contract,2025-05-02
+727,Data Engineer,Amazon,Hyderabad,29,0,"AWS, Airflow, Python",Internship,2025-10-21
+728,AI Engineer,Wipro,Mumbai,4,6,"Kafka, Machine Learning, Power BI, Python",Internship,2025-09-09
+729,Python Developer,Oracle,Pune,33,1,"Kafka, Python, Tableau, Azure, Power BI",Internship,2025-03-03
+730,AI Engineer,IBM,Mumbai,34,4,"Azure, Tableau, Python, SQL",Contract,2026-05-08
+731,Python Developer,Flipkart,Pune,4,9,"Azure, Spark, Python",Full-Time,2025-10-05
+732,BI Analyst,IBM,Hyderabad,6,2,"Airflow, SQL, Machine Learning, Power BI, Tableau",Contract,2026-05-07
+733,Data Engineer,Accenture,Chennai,8,2,"Machine Learning, Tableau, Power BI, Kafka, AWS",Full-Time,2025-09-09
+734,Data Engineer,Paytm,Mumbai,4,4,"Python, SQL, Airflow, Azure",Internship,2025-05-07
+735,Analytics Engineer,Google,Hyderabad,16,3,"Airflow, Azure, Spark",Full-Time,2025-11-24
+736,Data Scientist,Deloitte,Mumbai,30,7,"Kafka, Airflow, Python",Full-Time,2026-03-04
+737,BI Analyst,Oracle,Hyderabad,5,7,"Python, Spark, SQL",Contract,2025-02-28
+738,AI Engineer,Oracle,Mumbai,5,8,"Spark, Airflow, Kafka, Azure",Internship,2026-02-24
+739,Data Analyst,Microsoft,Pune,26,9,"Spark, Airflow, Tableau, Power BI, Python",Internship,2026-05-26
+740,Data Analyst,Flipkart,Mumbai,14,2,"Power BI, Azure, Python, Spark, Machine Learning",Contract,2025-10-04
+741,BI Analyst,Zoho,Bangalore,22,5,"AWS, Power BI, Spark, SQL, Airflow",Internship,2025-08-09
+742,AI Engineer,Wipro,Mumbai,6,8,"SQL, Kafka, Airflow, Azure, Machine Learning",Contract,2025-06-16
+743,AI Engineer,TCS,Bangalore,10,4,"Kafka, Spark, Power BI, Machine Learning",Contract,2025-03-17
+744,Python Developer,TCS,Delhi,15,0,"Power BI, Airflow, Azure",Internship,2026-06-24
+745,Machine Learning Engineer,TCS,Bangalore,29,1,"Spark, Kafka, AWS, Python, Machine Learning",Internship,2025-01-06
+746,BI Analyst,Wipro,Pune,7,1,"AWS, Power BI, SQL",Full-Time,2025-03-02
+747,Analytics Engineer,Flipkart,Pune,22,5,"Azure, Kafka, Spark",Internship,2025-08-28
+748,Data Analyst,Amazon,Chennai,34,8,"Power BI, Airflow, Spark",Internship,2025-11-28
+749,BI Analyst,Paytm,Bangalore,28,5,"SQL, AWS, Tableau, Azure",Full-Time,2025-07-18
+750,Machine Learning Engineer,Oracle,Delhi,11,0,"Airflow, Azure, Machine Learning",Internship,2026-04-08
+751,AI Engineer,Cognizant,Mumbai,12,0,"SQL, Kafka, Azure",Contract,2026-06-30
+752,Data Scientist,Accenture,Delhi,10,5,"SQL, Kafka, Power BI, AWS, Airflow",Internship,2025-08-30
+753,Data Engineer,Paytm,Hyderabad,15,5,"SQL, Machine Learning, Python, Azure",Contract,2025-11-23
+754,Python Developer,Zoho,Chennai,34,4,"Airflow, Python, Spark",Internship,2026-01-02
+755,BI Analyst,Capgemini,Mumbai,27,6,"Azure, AWS, Kafka, Power BI",Full-Time,2025-09-09
+756,Data Engineer,TCS,Mumbai,29,8,"SQL, Power BI, Kafka, Azure",Full-Time,2025-10-10
+757,Data Engineer,Deloitte,Delhi,11,10,"SQL, Python, Machine Learning, Tableau, Kafka",Internship,2025-06-02
+758,AI Engineer,Deloitte,Delhi,33,8,"Machine Learning, SQL, AWS, Python, Airflow",Contract,2025-11-13
+759,Data Scientist,IBM,Delhi,35,6,"Airflow, Spark, Azure",Contract,2026-06-08
+760,Data Scientist,Zoho,Bangalore,20,8,"Azure, AWS, Spark",Full-Time,2025-12-01
+761,Data Engineer,Amazon,Hyderabad,20,3,"Python, Power BI, Airflow",Internship,2026-02-11
+762,Analytics Engineer,Accenture,Mumbai,28,8,"Airflow, Python, AWS",Contract,2025-10-25
+763,BI Analyst,Infosys,Mumbai,24,0,"Kafka, Power BI, Azure, Airflow",Internship,2026-05-28
+764,Data Analyst,Deloitte,Bangalore,32,3,"Power BI, SQL, Spark, Python",Contract,2026-06-06
+765,Analytics Engineer,TCS,Bangalore,19,3,"Azure, Kafka, Spark",Internship,2025-12-01
+766,Data Engineer,Zoho,Bangalore,26,5,"Kafka, Python, Airflow",Full-Time,2025-11-30
+767,Data Scientist,Amazon,Pune,11,5,"Python, Spark, Tableau, Kafka, Airflow",Internship,2025-05-30
+768,Data Engineer,Deloitte,Hyderabad,28,7,"Airflow, Azure, Machine Learning",Full-Time,2025-11-03
+769,BI Analyst,Wipro,Delhi,27,4,"Airflow, Spark, Kafka, Azure",Contract,2025-12-30
+770,Data Scientist,IBM,Bangalore,17,5,"Airflow, AWS, Python",Full-Time,2025-09-08
+771,BI Analyst,TCS,Hyderabad,20,7,"Kafka, Python, AWS, SQL, Power BI",Contract,2025-10-16
+772,Analytics Engineer,Capgemini,Pune,20,4,"Azure, Tableau, Python, Airflow, Kafka",Internship,2025-07-27
+773,Data Scientist,Amazon,Chennai,25,9,"Airflow, Kafka, Azure, SQL",Internship,2025-05-29
+774,BI Analyst,IBM,Delhi,18,0,"Python, AWS, Airflow, Spark, Kafka",Contract,2026-05-18
+775,Data Analyst,Zoho,Bangalore,10,9,"Python, Tableau, Machine Learning",Contract,2025-07-13
+776,Data Scientist,Amazon,Pune,8,10,"Power BI, Machine Learning, SQL",Internship,2025-08-11
+777,BI Analyst,Flipkart,Chennai,5,0,"SQL, Tableau, Airflow, Spark, Power BI",Full-Time,2025-05-01
+778,Data Analyst,Capgemini,Hyderabad,7,8,"Power BI, Azure, Machine Learning, SQL",Contract,2025-05-07
+779,Analytics Engineer,Google,Delhi,7,4,"Kafka, Airflow, Spark, SQL",Full-Time,2026-03-21
+780,Python Developer,Accenture,Bangalore,29,3,"Azure, Power BI, Kafka",Contract,2025-04-01
+781,Data Analyst,Wipro,Pune,8,4,"Airflow, SQL, Power BI, Kafka, Spark",Internship,2025-11-23
+782,Python Developer,Wipro,Mumbai,4,1,"Kafka, Python, SQL, Power BI",Full-Time,2025-08-03
+783,Python Developer,Paytm,Bangalore,25,0,"Airflow, Machine Learning, Azure, Tableau, Kafka",Contract,2026-01-10
+784,AI Engineer,Oracle,Chennai,18,10,"Spark, AWS, Tableau",Internship,2025-07-09
+785,Data Scientist,Paytm,Hyderabad,7,7,"Kafka, Power BI, Machine Learning",Internship,2025-11-29
+786,BI Analyst,TCS,Delhi,8,0,"Tableau, Power BI, Kafka, Python, Airflow",Contract,2025-11-13
+787,AI Engineer,Deloitte,Pune,27,8,"Azure, Airflow, SQL",Full-Time,2025-02-22
+788,Analytics Engineer,Wipro,Hyderabad,19,2,"Spark, Power BI, Python, Machine Learning",Internship,2025-03-09
+789,Data Engineer,Google,Mumbai,4,5,"Azure, Machine Learning, Power BI",Internship,2025-09-23
+790,Machine Learning Engineer,TCS,Chennai,16,6,"SQL, Tableau, AWS",Internship,2026-01-31
+791,AI Engineer,Accenture,Chennai,9,10,"Airflow, SQL, Tableau, Power BI, Azure",Full-Time,2025-07-10
+792,Machine Learning Engineer,Oracle,Pune,11,10,"Python, Azure, Spark, Airflow, Tableau",Full-Time,2026-03-26
+793,Data Engineer,Paytm,Bangalore,8,10,"Machine Learning, AWS, Power BI, Tableau",Internship,2025-05-27
+794,Python Developer,Zoho,Bangalore,8,10,"SQL, AWS, Power BI",Full-Time,2025-11-24
+795,Python Developer,IBM,Delhi,5,4,"Machine Learning, Python, Azure",Full-Time,2025-03-01
+796,Data Scientist,Wipro,Bangalore,4,0,"AWS, Python, Power BI, Kafka",Contract,2026-05-11
+797,Data Scientist,Infosys,Bangalore,32,8,"Python, Azure, Kafka",Full-Time,2025-05-16
+798,AI Engineer,Zoho,Pune,33,9,"Azure, Airflow, Tableau, Power BI, Kafka",Internship,2025-09-01
+799,Data Engineer,Google,Hyderabad,18,0,"SQL, Power BI, Azure, Python",Full-Time,2026-01-04
+800,Data Analyst,IBM,Mumbai,27,8,"Airflow, Spark, Tableau",Full-Time,2025-11-20
+801,Data Scientist,Cognizant,Bangalore,34,10,"Tableau, Power BI, AWS, Airflow",Full-Time,2025-01-12
+802,BI Analyst,Infosys,Hyderabad,33,3,"Kafka, Power BI, Azure, Spark",Internship,2025-08-26
+803,Python Developer,IBM,Mumbai,13,8,"Python, SQL, AWS",Internship,2025-02-24
+804,Python Developer,Zoho,Pune,10,3,"Spark, Python, Kafka, SQL, Machine Learning",Internship,2026-05-09
+805,Data Analyst,TCS,Pune,24,1,"Tableau, Kafka, Spark, Machine Learning, Power BI",Full-Time,2025-07-11
+806,Machine Learning Engineer,Microsoft,Mumbai,12,10,"Python, Kafka, SQL",Internship,2026-06-14
+807,Machine Learning Engineer,Capgemini,Hyderabad,22,1,"Machine Learning, Power BI, AWS",Full-Time,2025-01-16
+808,Machine Learning Engineer,Oracle,Chennai,24,10,"Azure, Airflow, Power BI, Tableau, AWS",Internship,2026-05-13
+809,Analytics Engineer,Amazon,Bangalore,26,0,"Tableau, Airflow, Machine Learning",Full-Time,2025-08-08
+810,Data Analyst,Amazon,Bangalore,8,1,"Azure, SQL, Power BI, Tableau, Machine Learning",Contract,2025-03-13
+811,Python Developer,Deloitte,Bangalore,25,5,"Azure, Python, Power BI",Full-Time,2025-06-27
+812,AI Engineer,Infosys,Delhi,32,10,"Machine Learning, AWS, Python",Internship,2025-08-01
+813,AI Engineer,Amazon,Hyderabad,22,9,"AWS, Power BI, SQL, Spark, Kafka",Contract,2025-02-19
+814,Machine Learning Engineer,Google,Delhi,33,9,"Machine Learning, Azure, Python",Contract,2025-04-17
+815,Data Analyst,Paytm,Delhi,13,7,"SQL, Azure, Machine Learning, Tableau, Power BI",Contract,2026-01-18
+816,Python Developer,IBM,Bangalore,34,0,"AWS, SQL, Python, Kafka, Airflow",Contract,2026-03-08
+817,Data Scientist,Infosys,Chennai,12,1,"Airflow, Python, Kafka, SQL",Internship,2025-03-18
+818,BI Analyst,Zoho,Pune,17,1,"Kafka, AWS, Python",Full-Time,2026-06-30
+819,Data Engineer,Wipro,Pune,5,8,"Python, Machine Learning, Azure, SQL, Airflow",Full-Time,2026-02-28
+820,AI Engineer,Capgemini,Pune,18,5,"SQL, Spark, Power BI, Airflow, Python",Contract,2025-02-07
+821,Data Engineer,Microsoft,Pune,22,5,"Airflow, AWS, Python",Internship,2025-09-08
+822,Data Engineer,Wipro,Mumbai,30,2,"AWS, Python, Power BI, Tableau",Contract,2025-04-19
+823,Analytics Engineer,Amazon,Chennai,33,0,"AWS, Python, Power BI, Spark, Tableau",Internship,2025-07-25
+824,Data Engineer,Deloitte,Mumbai,28,0,"Python, Tableau, Power BI, Airflow, Spark",Contract,2026-01-03
+825,Analytics Engineer,Amazon,Hyderabad,15,3,"Power BI, Machine Learning, Python, Kafka, Airflow",Contract,2026-03-13
+826,Analytics Engineer,Flipkart,Chennai,14,9,"Spark, Azure, Tableau, SQL, Kafka",Internship,2025-11-17
+827,Data Scientist,TCS,Delhi,23,5,"SQL, Spark, Machine Learning",Contract,2026-03-28
+828,Data Scientist,Accenture,Delhi,29,8,"Kafka, Airflow, Azure, AWS",Contract,2025-02-26
+829,Machine Learning Engineer,Google,Mumbai,8,0,"Azure, SQL, AWS",Contract,2026-06-27
+830,Machine Learning Engineer,IBM,Hyderabad,17,6,"Spark, SQL, Tableau, Airflow",Contract,2026-04-07
+831,Data Engineer,Deloitte,Hyderabad,7,8,"SQL, Tableau, Kafka, Python, AWS",Internship,2025-07-05
+832,Analytics Engineer,Zoho,Chennai,9,6,"Kafka, Azure, SQL, Python",Full-Time,2025-03-04
+833,Machine Learning Engineer,Paytm,Chennai,16,3,"Kafka, Azure, Power BI, Tableau",Contract,2026-02-12
+834,Machine Learning Engineer,IBM,Mumbai,13,2,"Kafka, SQL, Azure, Tableau, Spark",Internship,2025-08-19
+835,Data Engineer,Accenture,Hyderabad,29,10,"Machine Learning, Airflow, Kafka, SQL",Internship,2025-02-21
+836,Data Scientist,Flipkart,Chennai,32,7,"Tableau, Kafka, Spark",Internship,2025-11-12
+837,AI Engineer,TCS,Delhi,27,3,"Spark, Airflow, Python, SQL, Azure",Internship,2025-03-30
+838,AI Engineer,IBM,Delhi,28,6,"Azure, Kafka, Machine Learning",Contract,2025-10-23
+839,Data Engineer,Cognizant,Hyderabad,31,0,"Python, AWS, Kafka",Full-Time,2025-11-04
+840,Analytics Engineer,Google,Bangalore,32,0,"AWS, Power BI, Kafka, SQL, Airflow",Internship,2025-01-10
+841,Data Analyst,Deloitte,Hyderabad,7,8,"Tableau, Spark, Azure",Full-Time,2026-04-20
+842,Analytics Engineer,Oracle,Chennai,25,7,"Azure, Power BI, Spark, Kafka",Internship,2025-07-14
+843,BI Analyst,Accenture,Delhi,14,0,"Airflow, Python, Kafka, AWS, Power BI",Full-Time,2026-02-02
+844,Data Scientist,Zoho,Bangalore,22,4,"Spark, Python, Machine Learning, Tableau",Contract,2025-09-19
+845,BI Analyst,Paytm,Delhi,31,7,"Power BI, Kafka, Tableau, AWS, Machine Learning",Contract,2025-11-05
+846,Python Developer,Flipkart,Pune,29,2,"Spark, Azure, Tableau",Internship,2026-02-18
+847,Analytics Engineer,Deloitte,Mumbai,31,0,"Kafka, AWS, Python, Azure",Full-Time,2025-11-27
+848,Analytics Engineer,Deloitte,Pune,34,3,"Spark, Tableau, Airflow",Full-Time,2025-12-26
+849,AI Engineer,Wipro,Hyderabad,12,4,"Tableau, Spark, Azure, Python, AWS",Contract,2025-11-22
+850,Analytics Engineer,IBM,Pune,6,7,"Tableau, SQL, AWS",Full-Time,2025-01-12
+851,Data Engineer,Flipkart,Hyderabad,10,4,"Airflow, Python, Kafka",Full-Time,2025-02-15
+852,Data Engineer,Flipkart,Mumbai,27,5,"Azure, Python, Machine Learning",Internship,2025-01-07
+853,Data Analyst,Paytm,Pune,22,7,"Airflow, Power BI, Kafka, Azure",Internship,2025-10-04
+854,Data Scientist,Oracle,Bangalore,16,1,"SQL, Tableau, Power BI",Full-Time,2026-03-22
+855,Machine Learning Engineer,Cognizant,Pune,22,5,"Power BI, Python, AWS",Full-Time,2026-01-13
+856,Machine Learning Engineer,Wipro,Pune,6,7,"AWS, Spark, Python",Full-Time,2025-05-01
+857,Data Engineer,TCS,Pune,35,0,"Kafka, Azure, AWS, Tableau, SQL",Internship,2026-04-02
+858,Python Developer,Cognizant,Chennai,15,2,"Airflow, Kafka, Azure, Python",Internship,2025-10-19
+859,Data Engineer,Wipro,Mumbai,13,6,"Python, Airflow, Tableau, Power BI",Internship,2025-04-21
+860,Data Analyst,IBM,Pune,34,4,"Power BI, Python, Azure",Internship,2026-03-23
+861,Python Developer,Zoho,Pune,9,5,"Tableau, Spark, Azure",Contract,2026-06-06
+862,Data Scientist,Capgemini,Hyderabad,33,6,"SQL, Tableau, Python, AWS",Full-Time,2025-03-15
+863,Data Scientist,Google,Hyderabad,30,0,"AWS, Kafka, Machine Learning, Tableau, Airflow",Full-Time,2026-06-07
+864,Data Scientist,TCS,Mumbai,27,2,"Python, Azure, Power BI",Full-Time,2025-05-08
+865,BI Analyst,Amazon,Bangalore,10,0,"Machine Learning, SQL, AWS, Spark",Contract,2026-01-07
+866,Python Developer,Accenture,Mumbai,13,9,"Python, Azure, Airflow, AWS",Full-Time,2025-06-15
+867,Analytics Engineer,Wipro,Chennai,33,6,"Spark, AWS, Airflow",Contract,2025-11-02
+868,Python Developer,Oracle,Chennai,33,4,"Airflow, Tableau, Spark",Internship,2026-02-12
+869,Machine Learning Engineer,Infosys,Chennai,35,1,"Airflow, Power BI, Machine Learning, AWS",Internship,2025-06-23
+870,Machine Learning Engineer,Infosys,Hyderabad,19,7,"Azure, Kafka, Machine Learning",Full-Time,2026-03-07
+871,Data Engineer,Capgemini,Mumbai,29,10,"Airflow, Azure, Tableau, AWS, Python",Internship,2026-05-18
+872,BI Analyst,Google,Pune,17,8,"Kafka, Airflow, Tableau, Python, Power BI",Internship,2025-05-09
+873,Data Engineer,IBM,Bangalore,6,3,"AWS, Airflow, Tableau",Internship,2026-06-28
+874,AI Engineer,TCS,Hyderabad,7,10,"Azure, Machine Learning, Airflow",Internship,2026-03-26
+875,Data Analyst,Capgemini,Delhi,13,2,"SQL, Python, Power BI, Airflow",Full-Time,2025-03-05
+876,Data Scientist,Flipkart,Delhi,9,0,"AWS, Kafka, SQL, Power BI",Full-Time,2026-05-27
+877,Analytics Engineer,Accenture,Hyderabad,35,3,"Kafka, Tableau, Power BI, Python",Internship,2025-10-12
+878,Data Scientist,Capgemini,Pune,24,5,"Airflow, Python, Kafka, Spark, Azure",Contract,2025-10-14
+879,Data Scientist,Infosys,Mumbai,33,5,"Kafka, Power BI, SQL, Machine Learning, Azure",Internship,2025-01-06
+880,Data Scientist,Cognizant,Hyderabad,29,1,"Airflow, Tableau, Kafka",Full-Time,2025-01-28
+881,Data Analyst,IBM,Chennai,30,10,"Tableau, Machine Learning, Azure, AWS",Contract,2025-08-21
+882,Data Engineer,Google,Mumbai,16,6,"Tableau, Kafka, AWS, Python, SQL",Contract,2025-11-08
+883,AI Engineer,Google,Chennai,26,9,"Machine Learning, Kafka, Python, Tableau, Airflow",Internship,2026-02-12
+884,Python Developer,Cognizant,Pune,16,2,"Machine Learning, Spark, Kafka, Azure, Airflow",Internship,2026-05-12
+885,Python Developer,IBM,Chennai,8,6,"AWS, Machine Learning, Python, Airflow, Azure",Contract,2025-07-25
+886,BI Analyst,Flipkart,Bangalore,16,4,"Azure, SQL, Spark, AWS",Contract,2025-06-16
+887,Data Analyst,Oracle,Pune,33,7,"Airflow, SQL, Python, Kafka",Contract,2025-07-16
+888,Python Developer,TCS,Pune,16,8,"Machine Learning, SQL, AWS, Tableau, Kafka",Full-Time,2026-04-30
+889,Data Engineer,Wipro,Hyderabad,17,8,"SQL, Spark, Azure",Contract,2025-05-18
+890,Data Engineer,Amazon,Mumbai,24,0,"Kafka, Tableau, AWS",Internship,2025-03-01
+891,Python Developer,Flipkart,Mumbai,19,8,"Airflow, Python, Tableau, SQL",Internship,2026-02-23
+892,Data Analyst,TCS,Hyderabad,20,6,"Airflow, Python, Tableau, AWS, Machine Learning",Contract,2026-04-28
+893,Data Scientist,Deloitte,Mumbai,35,2,"Azure, Airflow, Machine Learning",Internship,2025-05-20
+894,Machine Learning Engineer,Zoho,Chennai,30,3,"Tableau, Airflow, SQL, Kafka",Internship,2026-02-24
+895,Data Analyst,Microsoft,Pune,4,5,"Airflow, Power BI, SQL, Kafka, Tableau",Full-Time,2025-05-30
+896,Data Scientist,Flipkart,Chennai,15,10,"Spark, Python, Power BI",Full-Time,2025-08-18
+897,AI Engineer,Zoho,Delhi,20,10,"Tableau, Python, Azure",Internship,2025-12-21
+898,Python Developer,Amazon,Mumbai,4,10,"Kafka, Azure, Tableau, Machine Learning, Power BI",Internship,2025-04-05
+899,Analytics Engineer,Deloitte,Pune,30,7,"Tableau, Airflow, Python, AWS, SQL",Contract,2025-12-24
+900,Analytics Engineer,TCS,Bangalore,4,8,"AWS, SQL, Spark",Full-Time,2026-06-15
+901,BI Analyst,Capgemini,Mumbai,31,9,"Spark, Kafka, AWS, Python, Power BI",Internship,2025-07-31
+902,Data Engineer,Infosys,Mumbai,6,8,"Spark, SQL, AWS, Machine Learning",Full-Time,2026-06-14
+903,Machine Learning Engineer,Oracle,Delhi,4,3,"Power BI, Machine Learning, Kafka",Internship,2025-06-02
+904,Data Analyst,Infosys,Delhi,26,6,"Tableau, Spark, AWS, Machine Learning",Internship,2025-06-23
+905,Data Analyst,IBM,Hyderabad,31,6,"Machine Learning, Spark, AWS, Power BI",Full-Time,2026-04-22
+906,BI Analyst,Zoho,Chennai,15,7,"Python, SQL, Spark, Kafka, Tableau",Contract,2025-03-16
+907,BI Analyst,IBM,Hyderabad,28,1,"Spark, Python, SQL",Full-Time,2025-07-27
+908,Analytics Engineer,Paytm,Hyderabad,9,7,"SQL, Python, AWS, Spark",Full-Time,2025-05-02
+909,Analytics Engineer,Zoho,Hyderabad,5,5,"Azure, Kafka, Spark",Contract,2025-03-26
+910,Python Developer,Paytm,Bangalore,31,5,"Tableau, Spark, Azure, Power BI, Machine Learning",Contract,2025-10-30
+911,Data Scientist,Amazon,Delhi,23,9,"Kafka, Airflow, Machine Learning",Contract,2026-05-08
+912,Data Analyst,Oracle,Hyderabad,14,2,"Spark, Tableau, Python, Airflow, Machine Learning",Full-Time,2025-09-14
+913,Python Developer,Cognizant,Chennai,14,5,"Airflow, SQL, AWS, Machine Learning",Full-Time,2025-08-11
+914,Data Scientist,Google,Mumbai,14,0,"Airflow, Machine Learning, SQL",Internship,2025-01-01
+915,Data Scientist,Microsoft,Mumbai,19,3,"SQL, Spark, AWS, Python, Power BI",Full-Time,2026-06-10
+916,Machine Learning Engineer,Wipro,Mumbai,33,1,"SQL, Spark, Tableau",Full-Time,2025-10-25
+917,Data Scientist,Zoho,Bangalore,35,8,"Airflow, Azure, Machine Learning",Full-Time,2026-01-22
+918,Data Analyst,IBM,Pune,35,2,"SQL, Airflow, Azure",Full-Time,2025-08-29
+919,Data Scientist,Capgemini,Delhi,16,7,"Spark, SQL, AWS",Internship,2025-01-14
+920,Data Scientist,TCS,Hyderabad,23,9,"Kafka, Python, Azure, Tableau",Contract,2025-06-18
+921,BI Analyst,Infosys,Pune,30,2,"Azure, Tableau, SQL, Python",Internship,2025-08-21
+922,AI Engineer,Deloitte,Bangalore,6,8,"Machine Learning, Power BI, Azure",Internship,2026-03-30
+923,AI Engineer,Paytm,Mumbai,7,4,"Airflow, Tableau, Azure, SQL, Power BI",Contract,2025-03-04
+924,BI Analyst,Infosys,Delhi,28,0,"Power BI, SQL, Kafka, Azure, AWS",Full-Time,2025-12-12
+925,Data Scientist,Wipro,Delhi,35,0,"Kafka, AWS, Tableau, Airflow",Contract,2025-02-12
+926,Machine Learning Engineer,Paytm,Bangalore,10,8,"AWS, Azure, Airflow, Python, Kafka",Internship,2025-06-05
+927,BI Analyst,Cognizant,Mumbai,11,0,"Machine Learning, SQL, Spark",Contract,2025-08-24
+928,Machine Learning Engineer,Wipro,Pune,27,4,"SQL, Azure, Machine Learning, Kafka, Power BI",Full-Time,2026-04-05
+929,Analytics Engineer,TCS,Chennai,16,8,"Kafka, Tableau, Airflow",Full-Time,2025-01-21
+930,Data Engineer,Capgemini,Delhi,17,4,"Airflow, Power BI, Spark",Internship,2025-11-30
+931,Analytics Engineer,TCS,Delhi,4,10,"Python, AWS, Kafka",Contract,2025-09-24
+932,AI Engineer,TCS,Delhi,33,10,"SQL, Spark, Power BI, Python, Machine Learning",Internship,2026-05-26
+933,AI Engineer,Microsoft,Chennai,11,1,"Python, AWS, Airflow, Power BI, Tableau",Contract,2025-02-01
+934,Data Scientist,Oracle,Chennai,25,0,"Power BI, Spark, AWS",Contract,2025-02-07
+935,BI Analyst,Google,Mumbai,6,1,"Tableau, Machine Learning, Kafka, Spark, Azure",Contract,2025-11-30
+936,Data Analyst,Flipkart,Pune,32,7,"Tableau, SQL, Kafka",Contract,2025-10-03
+937,AI Engineer,Zoho,Pune,30,3,"AWS, Power BI, Airflow",Contract,2025-09-09
+938,Machine Learning Engineer,Zoho,Pune,17,2,"Spark, Machine Learning, Power BI, Kafka, Python",Internship,2025-06-22
+939,BI Analyst,Google,Hyderabad,26,6,"Spark, Airflow, Azure",Internship,2025-06-04
+940,Machine Learning Engineer,Infosys,Hyderabad,21,6,"Airflow, Tableau, Kafka, Power BI",Internship,2025-07-03
+941,BI Analyst,Flipkart,Pune,6,5,"Kafka, SQL, Spark",Internship,2025-08-02
+942,Data Engineer,IBM,Bangalore,9,10,"AWS, Azure, SQL, Kafka, Spark",Contract,2025-02-24
+943,AI Engineer,Wipro,Delhi,13,10,"SQL, Azure, Tableau",Internship,2026-06-01
+944,Machine Learning Engineer,Capgemini,Delhi,5,9,"Python, Airflow, AWS, Azure, Machine Learning",Contract,2025-10-12
+945,BI Analyst,Microsoft,Hyderabad,35,3,"Machine Learning, Airflow, Power BI",Internship,2025-06-30
+946,Machine Learning Engineer,Accenture,Chennai,28,2,"Power BI, Tableau, Python, Kafka",Contract,2025-07-08
+947,Data Analyst,Microsoft,Mumbai,19,9,"AWS, Spark, Power BI",Full-Time,2025-06-04
+948,BI Analyst,Infosys,Pune,15,10,"Kafka, Tableau, Power BI, AWS, Machine Learning",Internship,2025-04-06
+949,Data Engineer,Flipkart,Delhi,7,6,"AWS, Kafka, SQL",Full-Time,2026-01-30
+950,Data Engineer,Deloitte,Bangalore,25,2,"SQL, Tableau, Python",Contract,2025-08-11
+951,Machine Learning Engineer,Microsoft,Pune,18,8,"Power BI, Machine Learning, Spark, Python",Contract,2025-11-18
+952,Python Developer,Zoho,Mumbai,10,3,"Python, Tableau, SQL, Kafka",Full-Time,2025-05-07
+953,Data Engineer,Cognizant,Pune,5,1,"Azure, Airflow, AWS",Internship,2025-08-29
+954,AI Engineer,Flipkart,Hyderabad,8,7,"Azure, Spark, Kafka, AWS",Contract,2025-08-12
+955,AI Engineer,IBM,Mumbai,6,0,"Azure, Tableau, SQL, Kafka, Spark",Internship,2026-02-14
+956,Machine Learning Engineer,Oracle,Chennai,22,1,"Power BI, Python, Airflow",Full-Time,2025-04-26
+957,Machine Learning Engineer,Microsoft,Bangalore,33,10,"Machine Learning, Spark, Kafka",Internship,2025-02-27
+958,Data Analyst,TCS,Hyderabad,25,9,"Python, Machine Learning, Kafka, Power BI, Azure",Full-Time,2025-06-03
+959,AI Engineer,Capgemini,Pune,20,7,"Airflow, Kafka, Azure",Contract,2025-01-16
+960,Python Developer,Zoho,Hyderabad,14,6,"SQL, Airflow, Spark, Kafka, Azure",Full-Time,2026-02-22
+961,Machine Learning Engineer,Zoho,Delhi,22,6,"Kafka, Spark, Tableau, Machine Learning",Internship,2025-06-25
+962,Analytics Engineer,Accenture,Pune,35,9,"Tableau, Python, Machine Learning, Power BI, Azure",Internship,2025-06-25
+963,Python Developer,IBM,Mumbai,23,10,"Azure, Kafka, Power BI, AWS, Airflow",Full-Time,2026-01-03
+964,Data Scientist,Capgemini,Delhi,12,4,"Tableau, Power BI, Azure",Internship,2026-02-28
+965,Data Scientist,Wipro,Delhi,35,0,"AWS, Kafka, SQL",Internship,2025-01-09
+966,Data Scientist,TCS,Pune,15,2,"Power BI, Spark, Tableau",Contract,2026-02-03
+967,Python Developer,Capgemini,Chennai,7,3,"Machine Learning, SQL, Tableau",Full-Time,2026-03-18
+968,Analytics Engineer,Wipro,Mumbai,12,0,"Python, Azure, Power BI, AWS",Internship,2026-03-26
+969,Data Analyst,Infosys,Pune,23,10,"Azure, Machine Learning, Power BI, Python",Internship,2026-06-10
+970,Data Engineer,Capgemini,Chennai,27,4,"Machine Learning, Python, Azure, Power BI",Full-Time,2025-05-15
+971,Data Engineer,Wipro,Hyderabad,14,0,"Machine Learning, SQL, Spark, Kafka, Airflow",Contract,2025-05-25
+972,Machine Learning Engineer,Cognizant,Bangalore,16,3,"AWS, SQL, Airflow",Contract,2025-10-23
+973,BI Analyst,TCS,Hyderabad,10,6,"AWS, Power BI, Python",Full-Time,2025-05-10
+974,Machine Learning Engineer,Flipkart,Pune,18,4,"Spark, SQL, Machine Learning, Tableau, Power BI",Full-Time,2025-05-10
+975,Analytics Engineer,Zoho,Pune,18,10,"Kafka, Power BI, AWS, Machine Learning",Full-Time,2025-08-17
+976,AI Engineer,Flipkart,Mumbai,32,1,"Power BI, SQL, Machine Learning, Tableau",Contract,2025-03-05
+977,Data Engineer,Deloitte,Delhi,26,3,"Azure, Python, SQL, Tableau, Power BI",Full-Time,2026-02-11
+978,BI Analyst,TCS,Pune,22,6,"Machine Learning, AWS, Tableau, SQL, Airflow",Contract,2025-01-17
+979,Analytics Engineer,Paytm,Chennai,34,3,"SQL, Kafka, Python, Airflow",Internship,2026-04-07
+980,BI Analyst,Accenture,Chennai,27,0,"Python, Airflow, Tableau",Internship,2025-03-16
+981,Analytics Engineer,Zoho,Mumbai,22,9,"Spark, Python, Kafka, Machine Learning",Internship,2026-04-13
+982,Analytics Engineer,Wipro,Bangalore,5,0,"Spark, Machine Learning, Python, SQL",Internship,2025-08-01
+983,Data Analyst,Cognizant,Mumbai,31,0,"Azure, Power BI, Tableau",Contract,2026-05-21
+984,AI Engineer,Accenture,Mumbai,20,3,"Tableau, Machine Learning, Power BI, Kafka, Azure",Internship,2026-01-09
+985,Data Analyst,TCS,Chennai,25,8,"Power BI, Kafka, Python, SQL, Tableau",Internship,2025-11-19
+986,Data Analyst,Deloitte,Chennai,12,7,"Azure, Spark, Python",Full-Time,2025-09-03
+987,AI Engineer,Amazon,Pune,24,2,"Spark, AWS, Power BI, Azure, Machine Learning",Internship,2025-02-05
+988,Python Developer,Flipkart,Chennai,16,10,"Azure, AWS, Python",Full-Time,2025-08-03
+989,Machine Learning Engineer,Accenture,Mumbai,7,10,"Power BI, Python, Azure, Kafka, Machine Learning",Full-Time,2026-06-25
+990,Data Scientist,Paytm,Bangalore,20,3,"Python, Tableau, Machine Learning",Full-Time,2025-01-04
+991,Data Engineer,Deloitte,Bangalore,4,6,"SQL, Tableau, Spark",Contract,2026-01-01
+992,BI Analyst,Paytm,Pune,34,10,"Python, Kafka, Power BI, Spark",Internship,2025-09-12
+993,Machine Learning Engineer,Deloitte,Chennai,19,1,"Machine Learning, Spark, Power BI, Airflow, Kafka",Contract,2026-03-31
+994,Analytics Engineer,TCS,Hyderabad,4,3,"Power BI, Tableau, Azure, Airflow",Full-Time,2026-06-13
+995,Analytics Engineer,Paytm,Hyderabad,19,4,"Kafka, Spark, Power BI, Tableau",Internship,2026-01-22
+996,Data Analyst,Microsoft,Pune,14,9,"Python, Kafka, Machine Learning, Power BI, SQL",Internship,2026-03-17
+997,Data Scientist,Paytm,Bangalore,13,0,"Spark, SQL, Power BI, Kafka",Full-Time,2026-05-21
+998,Data Analyst,Accenture,Pune,9,10,"Spark, Python, Power BI",Contract,2025-04-01
+999,Analytics Engineer,Paytm,Hyderabad,10,7,"Kafka, Python, SQL, Spark, Power BI",Contract,2025-06-15
+1000,Analytics Engineer,Deloitte,Mumbai,8,8,"Spark, SQL, Kafka, Airflow, AWS",Internship,2025-09-07
+
