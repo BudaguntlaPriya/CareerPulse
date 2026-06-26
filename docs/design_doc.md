@@ -27,6 +27,22 @@ dbt Transformations
 ↓
 Streamlit Dashboard
 
+
+## Tech Stack
+
+| Layer                | Technology                     |
+| -------------------- | ------------------------------ |
+| Programming Language | Python                         |
+| Data Source          | Synthetic Dataset + Adzuna API |
+| Data Processing      | Pandas                         |
+| Database / Warehouse | PostgreSQL                     |
+| Query Language       | SQL                            |
+| Transformation       | dbt                            |
+| Visualization        | Streamlit                      |
+| Version Control      | Git + GitHub                   |
+| Containerization     | Docker                         |
+
+
 ## Expected Insights
 
 * Top hiring companies
