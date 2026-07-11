@@ -68,3 +68,24 @@ Dashboard
 - Transformed raw data into a Pandas DataFrame.
 - Loaded live API data into PostgreSQL.
 - Verified successful data insertion using SQL queries.
+
+##  folder structure 
+CareerPulse/
+│
+├── api/
+│   ├── fetch_jobs.py
+│   └── api_config.py
+│
+├── ingestion/
+│   ├── load_api_to_postgres.py
+│   └── load_data.py
+│
+├── data/
+│   └── api_jobs.csv
+│
+├── sql/
+│   ├── schema.sql
+│   ├── queries.sql
+│   └── business_queries.sql
+│
+└── README.md
