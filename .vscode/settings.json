@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "CareerPulse_DB",
+            "username": "postgres",
+            "database": "careerpulse_db",
+            "group": "CareerPulse",
+            "password": "Priya2107"
+        }
+    ]
+}
