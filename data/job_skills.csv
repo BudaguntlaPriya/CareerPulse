@@ -1,0 +1,164 @@
+job_id,searched_role,company,job_title,skill
+5785772822,Data Engineer,Capco,Data Engineer - Scala,Scala
+5793571901,Data Engineer,Cornerstone onDemand,Principal Data Engineer,Snowflake
+5795883342,Data Engineer,MSD,"Specialist, Data Engineer",Git
+5785771598,Data Engineer,Standard Chartered Bank,"Lead, Data Engineering",ETL
+5795582923,Data Scientist,NDMIT,Data Science Instructor,Python
+5795582923,Data Scientist,NDMIT,Data Science Instructor,SQL
+5795582923,Data Scientist,NDMIT,Data Science Instructor,Power BI
+5795582923,Data Scientist,NDMIT,Data Science Instructor,Machine Learning
+5795582923,Data Scientist,NDMIT,Data Science Instructor,Deep Learning
+5786785503,Data Scientist,upGrad,Data Science Instructor,Machine Learning
+5786785503,Data Scientist,upGrad,Data Science Instructor,Deep Learning
+5770622937,Data Scientist,Symbiosis University of Applied Sciences,Assistant Professor - Data Science,Machine Learning
+5790410794,Data Scientist,ABB,Data Science & AI Specialist,Git
+5785771249,Machine Learning Engineer,Morningstar,Machine Learning Engineer,Machine Learning
+5785771249,Machine Learning Engineer,Morningstar,Machine Learning Engineer,Scala
+5790410817,Machine Learning Engineer,S&P Global,Machine Learning Engineer,Machine Learning
+5785770666,Machine Learning Engineer,Morningstar,Senior Machine Learning Engineer,Machine Learning
+5785770666,Machine Learning Engineer,Morningstar,Senior Machine Learning Engineer,Scala
+5785771528,Machine Learning Engineer,S&P Global,Senior Machine Learning Engineer,Machine Learning
+5785770924,Machine Learning Engineer,S&P Global,Machine Learning Engineering Manager,Machine Learning
+5415364109,Machine Learning Engineer,Bask Health,Machine Learning Engineer,Machine Learning
+5747582818,Machine Learning Engineer,Branch International,Machine Learning Engineer,Machine Learning
+3175702626,Machine Learning Engineer,Marj Technologies,Machine Learning Engineer,AWS
+3175702626,Machine Learning Engineer,Marj Technologies,Machine Learning Engineer,TensorFlow
+3175702626,Machine Learning Engineer,Marj Technologies,Machine Learning Engineer,Machine Learning
+3175702626,Machine Learning Engineer,Marj Technologies,Machine Learning Engineer,Deep Learning
+5718401844,Machine Learning Engineer,Amgen,Machine Learning Engineer,Machine Learning
+5718401844,Machine Learning Engineer,Amgen,Machine Learning Engineer,Git
+4514376236,Machine Learning Engineer,Qrata,Machine Learning Engineer,Machine Learning
+5552722462,Machine Learning Engineer,Innover Systems,Machine Learning Engineer,Machine Learning
+3987216053,Machine Learning Engineer,Thena,Machine Learning Engineer,Machine Learning
+5785771056,AI Engineer,Capco,AI Engineer - Lead,Python
+5785771056,AI Engineer,Capco,AI Engineer - Lead,Snowflake
+5785771056,AI Engineer,Capco,AI Engineer - Lead,TensorFlow
+5785771056,AI Engineer,Capco,AI Engineer - Lead,PyTorch
+5785771056,AI Engineer,Capco,AI Engineer - Lead,Machine Learning
+5785771056,AI Engineer,Capco,AI Engineer - Lead,Pandas
+5785771056,AI Engineer,Capco,AI Engineer - Lead,NumPy
+5785772963,Data Analyst,Capco,Senior Data Analyst,Python
+5785772963,Data Analyst,Capco,Senior Data Analyst,Spark
+5785771972,Data Analyst,Criteo,"Data Analyst, Solution Focus, AMER",Scala
+5785770935,Data Analyst,Criteo,"Data Analyst II, RM - AMER",Scala
+5785770792,Data Analyst,Capco,B3.1 IRR Design,Python
+5785770792,Data Analyst,Capco,B3.1 IRR Design,Spark
+5768015029,Data Analyst,Nuvama Asset Services,Fund Accountant,SQL
+5768015029,Data Analyst,Nuvama Asset Services,Fund Accountant,Power BI
+2458411535,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,SQL
+2458411535,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,Tableau
+2458411575,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,SQL
+2458411575,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,Tableau
+2458411575,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,ETL
+2458411575,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,MySQL
+1171509178,Business Intelligence Developer,N H Enterprises,Power Business Intelligent Developer,SQL
+1171509178,Business Intelligence Developer,N H Enterprises,Power Business Intelligent Developer,Power BI
+5784727566,Business Intelligence Developer,Terralogic Software Solutions,Business Intelligence Developer (Power BI),Python
+5784727566,Business Intelligence Developer,Terralogic Software Solutions,Business Intelligence Developer (Power BI),SQL
+5784727566,Business Intelligence Developer,Terralogic Software Solutions,Business Intelligence Developer (Power BI),Tableau
+5784727566,Business Intelligence Developer,Terralogic Software Solutions,Business Intelligence Developer (Power BI),Power BI
+5784727566,Business Intelligence Developer,Terralogic Software Solutions,Business Intelligence Developer (Power BI),ETL
+5719887961,Business Intelligence Developer,Tata Consultancy,Business Intelligence Developer - Bangalore - 10-12 yr,SQL
+5719887961,Business Intelligence Developer,Tata Consultancy,Business Intelligence Developer - Bangalore - 10-12 yr,Spark
+5719887961,Business Intelligence Developer,Tata Consultancy,Business Intelligence Developer - Bangalore - 10-12 yr,PostgreSQL
+5719887961,Business Intelligence Developer,Tata Consultancy,Business Intelligence Developer - Bangalore - 10-12 yr,MySQL
+4727380967,Business Intelligence Developer,Scremer,Solutions Developer (Business Intelligence),SQL
+4727380967,Business Intelligence Developer,Scremer,Solutions Developer (Business Intelligence),Azure
+4727380967,Business Intelligence Developer,Scremer,Solutions Developer (Business Intelligence),Power BI
+4727380967,Business Intelligence Developer,Scremer,Solutions Developer (Business Intelligence),Machine Learning
+5507908032,Business Intelligence Developer,EXL,Analyst-Application Development-Business Intelligence,Git
+5785772714,Business Intelligence Developer,Deutsche Bank,Senior BI Developer (BI Primary),Tableau
+5529516680,Business Intelligence Developer,EXL,Account Manager-Application Development-Business Intelligence,Python
+5529516680,Business Intelligence Developer,EXL,Account Manager-Application Development-Business Intelligence,AWS
+5529516680,Business Intelligence Developer,EXL,Account Manager-Application Development-Business Intelligence,Azure
+5529516680,Business Intelligence Developer,EXL,Account Manager-Application Development-Business Intelligence,Machine Learning
+5785772372,Cloud Engineer,Allianz Commercial,Cloud Data Engineer_2529,AWS
+5785772372,Cloud Engineer,Allianz Commercial,Cloud Data Engineer_2529,Azure
+5785772372,Cloud Engineer,Allianz Commercial,Cloud Data Engineer_2529,Scala
+5792883855,Cloud Engineer,Danaher,"Staff Engineer, Cloud Ops",Scala
+5767846634,Cloud Engineer,Weekday AI,Cloud Engineer,Kubernetes
+5767846634,Cloud Engineer,Weekday AI,Cloud Engineer,AWS
+5799017140,Cloud Engineer,Smiths Detection,Cloud Engineer,AWS
+5799017140,Cloud Engineer,Smiths Detection,Cloud Engineer,Scala
+5653477208,Big Data Engineer,Müller`s Solutions,Big Data Engineer,Scala
+5442082882,Big Data Engineer,Deqode,Big Data Engineer,Python
+5442082882,Big Data Engineer,Deqode,Big Data Engineer,Spark
+5442082882,Big Data Engineer,Deqode,Big Data Engineer,ETL
+5442082882,Big Data Engineer,Deqode,Big Data Engineer,Scala
+3675927995,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Python
+3675927995,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Spark
+3675927995,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,AWS
+3675927995,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Snowflake
+3675927995,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Scala
+3812502540,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Python
+3812502540,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Spark
+3812502540,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Hadoop
+3812502540,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,AWS
+3812502540,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Snowflake
+3812502540,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Scala
+4344577823,Big Data Engineer,Jobdost,Big Data Engineer,Python
+4344577823,Big Data Engineer,Jobdost,Big Data Engineer,Spark
+4344577823,Big Data Engineer,Jobdost,Big Data Engineer,Hadoop
+4344577823,Big Data Engineer,Jobdost,Big Data Engineer,Scala
+4819767261,Big Data Engineer,Virtusa,Big Data Engineer,Python
+4819767261,Big Data Engineer,Virtusa,Big Data Engineer,Spark
+4819767261,Big Data Engineer,Virtusa,Big Data Engineer,Hadoop
+4819767261,Big Data Engineer,Virtusa,Big Data Engineer,Java
+2956624525,Big Data Engineer,DataMetica,Big Data Engineer,Spark
+2956624525,Big Data Engineer,DataMetica,Big Data Engineer,Hadoop
+2956624525,Big Data Engineer,DataMetica,Big Data Engineer,Kafka
+2234827727,Big Data Engineer,netmedscom,Big Data Engineer,Machine Learning
+2234827727,Big Data Engineer,netmedscom,Big Data Engineer,Deep Learning
+2234827727,Big Data Engineer,netmedscom,Big Data Engineer,Data Warehouse
+2234827727,Big Data Engineer,netmedscom,Big Data Engineer,Scala
+4107271107,Big Data Engineer,Praveza Consultancy Private Limited,Big Data Engineer,Python
+4107271107,Big Data Engineer,Praveza Consultancy Private Limited,Big Data Engineer,SQL
+4107271107,Big Data Engineer,Praveza Consultancy Private Limited,Big Data Engineer,Spark
+4107271107,Big Data Engineer,Praveza Consultancy Private Limited,Big Data Engineer,Azure
+2202858547,Big Data Engineer,Innovalus Technologies,Big Data Engineer,Python
+2202858547,Big Data Engineer,Innovalus Technologies,Big Data Engineer,Spark
+2202858547,Big Data Engineer,Innovalus Technologies,Big Data Engineer,Hadoop
+2202858547,Big Data Engineer,Innovalus Technologies,Big Data Engineer,Kafka
+2202858547,Big Data Engineer,Innovalus Technologies,Big Data Engineer,AWS
+2202858547,Big Data Engineer,Innovalus Technologies,Big Data Engineer,Azure
+2202858547,Big Data Engineer,Innovalus Technologies,Big Data Engineer,Java
+1155089753,Big Data Engineer,Unbxd Software Pvt Ltd,Big Data Engineer,SQL
+1155089753,Big Data Engineer,Unbxd Software Pvt Ltd,Big Data Engineer,Linux
+1155089753,Big Data Engineer,Unbxd Software Pvt Ltd,Big Data Engineer,Java
+1155089753,Big Data Engineer,Unbxd Software Pvt Ltd,Big Data Engineer,Scala
+5677794551,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Python
+5677794551,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Spark
+5677794551,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,AWS
+5677794551,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Snowflake
+5677794551,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Scala
+5785772911,Data Architect,MSD,"Senior Technical Architect , Data Context Layer",Git
+5782333988,Data Architect,Eurofins GSC IT DC,Data Architect,SQL
+5782333988,Data Architect,Eurofins GSC IT DC,Data Architect,Azure
+5782333988,Data Architect,Eurofins GSC IT DC,Data Architect,ETL
+5782333988,Data Architect,Eurofins GSC IT DC,Data Architect,Scala
+5792949464,Data Architect,Trigent Software Private Limited,Data Architect,Azure
+5792949464,Data Architect,Trigent Software Private Limited,Data Architect,Scala
+5699844765,Data Architect,Risosu Consulting LLP,Data Architect,ETL
+5761948059,Data Architect,Paypal,Data Architect,Scala
+1171507698,Data Architect,I Base IT,Data Architect,Spark
+1171507698,Data Architect,I Base IT,Data Architect,Hadoop
+1171507698,Data Architect,I Base IT,Data Architect,Data Warehouse
+1171507698,Data Architect,I Base IT,Data Architect,Java
+1171507698,Data Architect,I Base IT,Data Architect,Scala
+5526739322,Data Architect,r3 Consultant,Data Architect,Scala
+2830210482,Data Architect,Amagi Media Labs,Data Architect,Scala
+5731955290,Data Architect,Compunnel Technology India Private Limited,Data Architect,ETL
+5785771270,Analytics Engineer,Morningstar,Marketing AI/ML Engineer,Machine Learning
+5750260034,Analytics Engineer,NeoGenCode Technologies Pvt Ltd,Analytics Engineer,SQL
+5750260034,Analytics Engineer,NeoGenCode Technologies Pvt Ltd,Analytics Engineer,Scala
+5635579299,Analytics Engineer,Hirestar job Bank,Analytics Engineer,Scala
+2478113297,Analytics Engineer,Moonraft Innovation Labs,Analytics engineer,Java
+5692874384,Analytics Engineer,Capgemini,FBS Analytics Engineer,Airflow
+5692874384,Analytics Engineer,Capgemini,FBS Analytics Engineer,ETL
+5692874384,Analytics Engineer,Capgemini,FBS Analytics Engineer,Scala
+5774235410,Analytics Engineer,Warner Bros. Discovery,Staff Analytics Engineer,Scala
+5743881589,Analytics Engineer,AIIR Holdings,Data Analytics Engineer,Machine Learning
+5766210835,Analytics Engineer,Mitratech India,Analytics Engineer II,Airflow
+5766210835,Analytics Engineer,Mitratech India,Analytics Engineer II,Snowflake
+5766210835,Analytics Engineer,Mitratech India,Analytics Engineer II,ETL
+5645256061,Analytics Engineer,Topcoder,Sr. Analytics Engineer,Scala
