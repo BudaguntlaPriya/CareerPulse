@@ -2,7 +2,8 @@ import logging
 import requests
 import json
 import pandas as pd
-from api_config import APP_ID, API_KEY
+#from api_config import APP_ID, API_KEY
+from config.config import ADZUNA_APP_ID, ADZUNA_API_KEY
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
@@ -23,7 +24,7 @@ job_roles = [
 all_jobs = []
 for role in job_roles:
 
-    url = f"https://api.adzuna.com/v1/api/jobs/in/search/1?app_id={APP_ID}&app_key={API_KEY}&results_per_page=20&what={role}"
+    url = f"https://api.adzuna.com/v1/api/jobs/in/search/1?app_id={ADZUNA_APP_ID}&app_key={ADZUNA_API_KEY}&results_per_page=20&what={role}"
     response = requests.get(url)
     #print(response.status_code)
     logging.info(f"{role} API Status: {response.status_code}")

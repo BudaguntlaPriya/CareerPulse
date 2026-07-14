@@ -1,5 +1,9 @@
+import os
 import subprocess
+import sys
 from pathlib import Path
+
+
 
 print("=" * 60)
 print("CareerPulse Job Market Intelligence Pipeline")
@@ -17,8 +21,13 @@ for script in scripts:
 
     print(f"\nRunning {script}...\n")
 
-    #result = subprocess.run(["python", script])
-    result = subprocess.run(["python", str(script)])
+    # Ensure project root is on sys.path for child scripts
+    project_root = Path(__file__).resolve().parent
+    env = dict(**os.environ)
+    env["PYTHONPATH"] = str(project_root)
+
+    result = subprocess.run([sys.executable, str(script)], env=env)
+
 
     if result.returncode != 0:
 

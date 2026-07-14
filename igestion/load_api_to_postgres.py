@@ -30,15 +30,26 @@ try:
     # -------------------------------
     # PostgreSQL Connection
     # -------------------------------
-    username = "postgres"
-    password = "Priya2107"
-    host = "localhost"
-    port = "5432"
-    database = "careerpulse_db"
+    #username = "postgres"
+    #password = "Priya2107"
+    from config.config import (
+    POSTGRES_USER,
+    POSTGRES_PASSWORD,
+    POSTGRES_HOST,
+    POSTGRES_PORT,
+    POSTGRES_DB,
+)
 
     engine = create_engine(
-        f"postgresql://{username}:{password}@{host}:{port}/{database}"
-    )
+    f"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}"
+)
+    #host = "localhost"
+    #port = "5432"
+    #database = "careerpulse_db"
+
+    ##engine = create_engine(
+      #  f"postgresql://{username}:{password}@{host}:{port}/{database}"
+    #)
 
     logger.info("Connected to PostgreSQL successfully.")
 

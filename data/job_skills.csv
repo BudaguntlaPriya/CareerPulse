@@ -1,8 +1,9 @@
 job_id,searched_role,company,job_title,skill
-5785772822,Data Engineer,Capco,Data Engineer - Scala,Scala
-5793571901,Data Engineer,Cornerstone onDemand,Principal Data Engineer,Snowflake
-5795883342,Data Engineer,MSD,"Specialist, Data Engineer",Git
-5785771598,Data Engineer,Standard Chartered Bank,"Lead, Data Engineering",ETL
+5794768640,Data Engineer,Deutsche Bank,"Principal Engineer - Data Services, VP",Scala
+5786419225,Data Engineer,Capco,GCP Platform Engineer,GCP
+5776258837,Data Engineer,Three Across,Assistant Manager/ Manager - Actimize SAM Implementation Analyst,SQL
+5786180977,Data Engineer,Evnek Technologies Pvt Ltd,Data Engineer,ETL
+5786180977,Data Engineer,Evnek Technologies Pvt Ltd,Data Engineer,Scala
 5795582923,Data Scientist,NDMIT,Data Science Instructor,Python
 5795582923,Data Scientist,NDMIT,Data Science Instructor,SQL
 5795582923,Data Scientist,NDMIT,Data Science Instructor,Power BI
@@ -11,14 +12,19 @@ job_id,searched_role,company,job_title,skill
 5786785503,Data Scientist,upGrad,Data Science Instructor,Machine Learning
 5786785503,Data Scientist,upGrad,Data Science Instructor,Deep Learning
 5770622937,Data Scientist,Symbiosis University of Applied Sciences,Assistant Professor - Data Science,Machine Learning
-5790410794,Data Scientist,ABB,Data Science & AI Specialist,Git
-5785771249,Machine Learning Engineer,Morningstar,Machine Learning Engineer,Machine Learning
-5785771249,Machine Learning Engineer,Morningstar,Machine Learning Engineer,Scala
-5790410817,Machine Learning Engineer,S&P Global,Machine Learning Engineer,Machine Learning
+5797599523,Data Scientist,SkillCircle™,"Admission Counselor- Patiala, Punjab",Git
+5798139264,Data Scientist,SkillCircle™,Admission Counselor- Navi Mumbai,Git
+5795082840,Data Scientist,SkillCircle™,Admission Counselor- Meerut,Git
+5783569310,Data Scientist,Brainware University,Assistant Professor – Computer Science & Engineering (AI & ML),Machine Learning
+5785771875,Data Scientist,Allianz Commercial,Consultant-Business Analytics,Machine Learning
+5785771875,Data Scientist,Allianz Commercial,Consultant-Business Analytics,Deep Learning
+5742257783,Data Scientist,"SRM Institute of Science and Technology, Kattankulathur Campus",Assistant Professor of Computer Science,Machine Learning
+5742257783,Data Scientist,"SRM Institute of Science and Technology, Kattankulathur Campus",Assistant Professor of Computer Science,Deep Learning
 5785770666,Machine Learning Engineer,Morningstar,Senior Machine Learning Engineer,Machine Learning
 5785770666,Machine Learning Engineer,Morningstar,Senior Machine Learning Engineer,Scala
-5785771528,Machine Learning Engineer,S&P Global,Senior Machine Learning Engineer,Machine Learning
 5785770924,Machine Learning Engineer,S&P Global,Machine Learning Engineering Manager,Machine Learning
+5799592154,Machine Learning Engineer,Weekday AI,Machine Learning Engineer,Machine Learning
+5799592154,Machine Learning Engineer,Weekday AI,Machine Learning Engineer,Scala
 5415364109,Machine Learning Engineer,Bask Health,Machine Learning Engineer,Machine Learning
 5747582818,Machine Learning Engineer,Branch International,Machine Learning Engineer,Machine Learning
 3175702626,Machine Learning Engineer,Marj Technologies,Machine Learning Engineer,AWS
@@ -30,21 +36,48 @@ job_id,searched_role,company,job_title,skill
 4514376236,Machine Learning Engineer,Qrata,Machine Learning Engineer,Machine Learning
 5552722462,Machine Learning Engineer,Innover Systems,Machine Learning Engineer,Machine Learning
 3987216053,Machine Learning Engineer,Thena,Machine Learning Engineer,Machine Learning
-5785771056,AI Engineer,Capco,AI Engineer - Lead,Python
-5785771056,AI Engineer,Capco,AI Engineer - Lead,Snowflake
-5785771056,AI Engineer,Capco,AI Engineer - Lead,TensorFlow
-5785771056,AI Engineer,Capco,AI Engineer - Lead,PyTorch
-5785771056,AI Engineer,Capco,AI Engineer - Lead,Machine Learning
-5785771056,AI Engineer,Capco,AI Engineer - Lead,Pandas
-5785771056,AI Engineer,Capco,AI Engineer - Lead,NumPy
-5785772963,Data Analyst,Capco,Senior Data Analyst,Python
-5785772963,Data Analyst,Capco,Senior Data Analyst,Spark
-5785771972,Data Analyst,Criteo,"Data Analyst, Solution Focus, AMER",Scala
-5785770935,Data Analyst,Criteo,"Data Analyst II, RM - AMER",Scala
-5785770792,Data Analyst,Capco,B3.1 IRR Design,Python
-5785770792,Data Analyst,Capco,B3.1 IRR Design,Spark
+4708090721,Machine Learning Engineer,LMES Academy,Machine Learning Engineer,Machine Learning
+5727268693,Machine Learning Engineer,MM Staffing & Career Consultants,Machine Learning Engineer,Machine Learning
+5363133330,Machine Learning Engineer,Potentiam,Machine Learning Engineer,Python
+5363133330,Machine Learning Engineer,Potentiam,Machine Learning Engineer,Airflow
+5363133330,Machine Learning Engineer,Potentiam,Machine Learning Engineer,Docker
+5363133330,Machine Learning Engineer,Potentiam,Machine Learning Engineer,PyTorch
+5363133330,Machine Learning Engineer,Potentiam,Machine Learning Engineer,Machine Learning
+5363133330,Machine Learning Engineer,Potentiam,Machine Learning Engineer,Pandas
+5363133330,Machine Learning Engineer,Potentiam,Machine Learning Engineer,NumPy
+5789965047,Machine Learning Engineer,Alignerr,Machine Learning Engineer,Machine Learning
+4676936483,Machine Learning Engineer,Sadup Softech,Machine learning engineer,Machine Learning
+5756005573,Machine Learning Engineer,Amgen,Machine Learning Engineer,Machine Learning
+5756005573,Machine Learning Engineer,Amgen,Machine Learning Engineer,Git
+3949356918,Machine Learning Engineer,People First Consultants,Machine Learning Engineer,Python
+3949356918,Machine Learning Engineer,People First Consultants,Machine Learning Engineer,SQL
+3949356918,Machine Learning Engineer,People First Consultants,Machine Learning Engineer,Spark
+3949356918,Machine Learning Engineer,People First Consultants,Machine Learning Engineer,Airflow
+3949356918,Machine Learning Engineer,People First Consultants,Machine Learning Engineer,Docker
+3949356918,Machine Learning Engineer,People First Consultants,Machine Learning Engineer,Kubernetes
+3949356918,Machine Learning Engineer,People First Consultants,Machine Learning Engineer,Databricks
+3949356918,Machine Learning Engineer,People First Consultants,Machine Learning Engineer,Machine Learning
+5722062899,Machine Learning Engineer,ParallelDots,Machine Learning Engineer,Python
+5722062899,Machine Learning Engineer,ParallelDots,Machine Learning Engineer,PyTorch
+5722062899,Machine Learning Engineer,ParallelDots,Machine Learning Engineer,Machine Learning
+5766000536,Machine Learning Engineer,Sun King,Machine Learning Engineer,Machine Learning
+5766000536,Machine Learning Engineer,Sun King,Machine Learning Engineer,Deep Learning
+5766000536,Machine Learning Engineer,Sun King,Machine Learning Engineer,Scala
+5780537027,Machine Learning Engineer,Morningstar,Machine Learning Engineer,Machine Learning
+5780537027,Machine Learning Engineer,Morningstar,Machine Learning Engineer,Scala
+5768018247,AI Engineer,Tredence Inc.,Principal Architect - AI Product Engineering (Presales),Git
+5768018247,AI Engineer,Tredence Inc.,Principal Architect - AI Product Engineering (Presales),Scala
+5785772500,AI Engineer,Cornerstone OnDemand,Senior Software Engineer - AI,Machine Learning
+5777484281,AI Engineer,LTM,Project Manager,Python
+5777484281,AI Engineer,LTM,Project Manager,Azure
 5768015029,Data Analyst,Nuvama Asset Services,Fund Accountant,SQL
 5768015029,Data Analyst,Nuvama Asset Services,Fund Accountant,Power BI
+5786180968,Data Analyst,Proof of Skill,Data Analyst,SQL
+5791623332,Data Analyst,Sia,Data Analyst,Power BI
+5785732023,Data Analyst,Smiths Detection,Data Analyst,SQL
+5785732023,Data Analyst,Smiths Detection,Data Analyst,Power BI
+5767332879,Data Analyst,Sopra Steria,Data Analyst,SQL
+5767332879,Data Analyst,Sopra Steria,Data Analyst,ETL
 2458411535,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,SQL
 2458411535,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,Tableau
 2458411575,Business Intelligence Developer,Symansys Technologies India Pvt Ltd,Business Intelligence Developer,SQL
@@ -67,19 +100,35 @@ job_id,searched_role,company,job_title,skill
 4727380967,Business Intelligence Developer,Scremer,Solutions Developer (Business Intelligence),Power BI
 4727380967,Business Intelligence Developer,Scremer,Solutions Developer (Business Intelligence),Machine Learning
 5507908032,Business Intelligence Developer,EXL,Analyst-Application Development-Business Intelligence,Git
-5785772714,Business Intelligence Developer,Deutsche Bank,Senior BI Developer (BI Primary),Tableau
 5529516680,Business Intelligence Developer,EXL,Account Manager-Application Development-Business Intelligence,Python
 5529516680,Business Intelligence Developer,EXL,Account Manager-Application Development-Business Intelligence,AWS
 5529516680,Business Intelligence Developer,EXL,Account Manager-Application Development-Business Intelligence,Azure
 5529516680,Business Intelligence Developer,EXL,Account Manager-Application Development-Business Intelligence,Machine Learning
-5785772372,Cloud Engineer,Allianz Commercial,Cloud Data Engineer_2529,AWS
-5785772372,Cloud Engineer,Allianz Commercial,Cloud Data Engineer_2529,Azure
-5785772372,Cloud Engineer,Allianz Commercial,Cloud Data Engineer_2529,Scala
-5792883855,Cloud Engineer,Danaher,"Staff Engineer, Cloud Ops",Scala
+5465034728,Business Intelligence Developer,EXL,Application Engineer-Application Development-Business Intelligence,SQL
+5465034728,Business Intelligence Developer,EXL,Application Engineer-Application Development-Business Intelligence,Tableau
 5767846634,Cloud Engineer,Weekday AI,Cloud Engineer,Kubernetes
 5767846634,Cloud Engineer,Weekday AI,Cloud Engineer,AWS
-5799017140,Cloud Engineer,Smiths Detection,Cloud Engineer,AWS
-5799017140,Cloud Engineer,Smiths Detection,Cloud Engineer,Scala
+5796260139,Cloud Engineer,Rezo.ai,Cloud Engineer,Azure
+5796260139,Cloud Engineer,Rezo.ai,Cloud Engineer,Scala
+5657199618,Cloud Engineer,Thinqor,Cloud Engineer,Azure
+5657199618,Cloud Engineer,Thinqor,Cloud Engineer,Databricks
+5657199618,Cloud Engineer,Thinqor,Cloud Engineer,Git
+5677345416,Cloud Engineer,Photon Group,Cloud Engineer,Docker
+5677345416,Cloud Engineer,Photon Group,Cloud Engineer,Kubernetes
+5677345416,Cloud Engineer,Photon Group,Cloud Engineer,AWS
+5677345416,Cloud Engineer,Photon Group,Cloud Engineer,Azure
+5677345416,Cloud Engineer,Photon Group,Cloud Engineer,GCP
+5677345416,Cloud Engineer,Photon Group,Cloud Engineer,Git
+4499249281,Cloud Engineer,Nyusoft Solutions,Cloud Engineer,Scala
+5789810788,Cloud Engineer,Dayal Group,Cloud Engineer,Linux
+5449953143,Cloud Engineer,TRU,Cloud Engineer,Git
+5784390818,Cloud Engineer,Ascentt-India,Cloud Engineer,AWS
+5784390818,Cloud Engineer,Ascentt-India,Cloud Engineer,Azure
+5784390818,Cloud Engineer,Ascentt-India,Cloud Engineer,GCP
+5784390818,Cloud Engineer,Ascentt-India,Cloud Engineer,Scala
+5789591866,Cloud Engineer,"NTT America, Inc.",Cloud Engineer,AWS
+2233316352,Cloud Engineer,AskSid,Cloud Engineer,Kubernetes
+2233316352,Cloud Engineer,AskSid,Cloud Engineer,Azure
 5653477208,Big Data Engineer,Müller`s Solutions,Big Data Engineer,Scala
 5442082882,Big Data Engineer,Deqode,Big Data Engineer,Python
 5442082882,Big Data Engineer,Deqode,Big Data Engineer,Spark
@@ -131,7 +180,7 @@ job_id,searched_role,company,job_title,skill
 5677794551,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,AWS
 5677794551,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Snowflake
 5677794551,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Big Data Engineer,Scala
-5785772911,Data Architect,MSD,"Senior Technical Architect , Data Context Layer",Git
+5361554645,Big Data Engineer,Hirebound,Big Data Engineer,Spark
 5782333988,Data Architect,Eurofins GSC IT DC,Data Architect,SQL
 5782333988,Data Architect,Eurofins GSC IT DC,Data Architect,Azure
 5782333988,Data Architect,Eurofins GSC IT DC,Data Architect,ETL
@@ -145,10 +194,9 @@ job_id,searched_role,company,job_title,skill
 1171507698,Data Architect,I Base IT,Data Architect,Data Warehouse
 1171507698,Data Architect,I Base IT,Data Architect,Java
 1171507698,Data Architect,I Base IT,Data Architect,Scala
-5526739322,Data Architect,r3 Consultant,Data Architect,Scala
 2830210482,Data Architect,Amagi Media Labs,Data Architect,Scala
 5731955290,Data Architect,Compunnel Technology India Private Limited,Data Architect,ETL
-5785771270,Analytics Engineer,Morningstar,Marketing AI/ML Engineer,Machine Learning
+5759542850,Data Architect,Officeworks,Data Architect,Scala
 5750260034,Analytics Engineer,NeoGenCode Technologies Pvt Ltd,Analytics Engineer,SQL
 5750260034,Analytics Engineer,NeoGenCode Technologies Pvt Ltd,Analytics Engineer,Scala
 5635579299,Analytics Engineer,Hirestar job Bank,Analytics Engineer,Scala
@@ -162,3 +210,8 @@ job_id,searched_role,company,job_title,skill
 5766210835,Analytics Engineer,Mitratech India,Analytics Engineer II,Snowflake
 5766210835,Analytics Engineer,Mitratech India,Analytics Engineer II,ETL
 5645256061,Analytics Engineer,Topcoder,Sr. Analytics Engineer,Scala
+5103581653,Analytics Engineer,Suzuki Digital,Data Analytics Engineer,SQL
+5773966088,Analytics Engineer,SEi,Sr Analytics Engineer,Python
+5773966088,Analytics Engineer,SEi,Sr Analytics Engineer,SQL
+5773966088,Analytics Engineer,SEi,Sr Analytics Engineer,Power BI
+5773966088,Analytics Engineer,SEi,Sr Analytics Engineer,Scala
