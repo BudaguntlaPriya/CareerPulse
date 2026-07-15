@@ -4,6 +4,8 @@
 
 DROP TABLE IF EXISTS dim_jobs;
 
+
+
 CREATE TABLE dim_jobs AS
 SELECT DISTINCT
     job_id,
@@ -13,9 +15,10 @@ SELECT DISTINCT
     category,
     job_type,
     posted_date,
-    searched_role
+    searched_role,
+    redirect_url,
+    description
 FROM api_jobs;
-
 -- ==========================
 -- Dimension: Skills
 -- ==========================
