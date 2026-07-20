@@ -1,91 +1,186 @@
-# CareerPulse — Job Market Intelligence Pipeline
+# 📊 CareerPulse – End-to-End Job Market Intelligence Platform
 
-## Project Overview
-CareerPulse is a Job Market Intelligence Pipeline designed to analyze hiring trends, skill demand, salary insights, and location-based opportunities.
+## Overview
 
-## Problem Statement
-Students and job seekers often struggle to understand:
-- Which skills are in demand
-- Which companies are hiring
-- Salary trends
-- Location-based opportunities
+CareerPulse is a Data Engineering project that transforms real-time job postings into actionable market intelligence.
 
-## Project Goals
-- Build end-to-end DE pipeline
-- Analyze job market trends
-- Study salary insights
-- Track skill demand
+The project collects live job data from the Adzuna API, validates and transforms it through an ETL pipeline, stores the processed data inside a PostgreSQL Data Warehouse using a Star Schema, and presents analytical insights through an interactive Streamlit dashboard.
+
+---
+
+## Features
+
+* Live Adzuna API Integration
+* ETL Pipeline
+* Data Validation & Cleaning
+* Technical Skill Extraction
+* PostgreSQL Data Warehouse
+* Star Schema Design
+* SQL Analytics
+* Interactive Streamlit Dashboard
+* Plotly Visualizations
+* Career Guidance
+* Hiring Trend Analysis
+* Downloadable Reports
+
+---
 
 ## Tech Stack
-- Python
-- PostgreSQL
-- SQL
-- dbt
-- Streamlit
-- Docker
 
-## Architecture
-Dataset + API  
-↓  
-Python Ingestion  
-↓  
-PostgreSQL  
-↓  
-dbt  
-↓  
-Dashboard
+* Python
+* PostgreSQL
+* SQL
+* Streamlit
+* Plotly
+* Pandas
+* Requests
+* SQLAlchemy
+* Psycopg2
 
-## Week 1 Progress 
+---
 
+## Project Architecture
 
+```text
+Adzuna API
+      │
+      ▼
+Raw Data (api_jobs.csv)
+      │
+      ▼
+Validation & Cleaning
+      │
+      ▼
+clean_api_jobs.csv
+      │
+      ▼
+Skill Extraction
+      │
+      ▼
+job_skills.csv
+      │
+      ▼
+PostgreSQL Data Warehouse
+      │
+      ▼
+Star Schema
+      │
+      ▼
+Streamlit Dashboard
+      │
+      ▼
+Job Market Intelligence
+```
 
-- Created the CareerPulse GitHub repository.
-- Set up the project folder structure.
-- Configured the Python development environment in VS Code.
-- Selected PostgreSQL as the project database.
-- Designed the project architecture.
-- Generated a synthetic job market dataset with 1000 records.
-- Created project documentation:
-  - Initial Design Document
-  - Tech Stack
-  - Learning Notes
-  - Status Report
+---
 
+## Dashboard Modules
 
-## 📅 Week 2 Progress
+### 🏠 Home
 
-- Installed PostgreSQL and pgAdmin.
-- Created the `careerpulse_db` database.
-- Created the `jobs` table.
-- Connected Python with PostgreSQL using SQLAlchemy.
-- Loaded the synthetic dataset into PostgreSQL.
-- Verified successful data insertion using SQL queries.
-## Week 3 Progress
+* Dashboard KPIs
+* Latest Jobs
+* Warehouse Summary
 
-- Connected to the Adzuna Jobs API.
-- Retrieved live job market data using REST API.
-- Parsed nested JSON responses.
-- Transformed raw data into a Pandas DataFrame.
-- Loaded live API data into PostgreSQL.
-- Verified successful data insertion using SQL queries.
+### 🔍 Search Jobs
 
-##  folder structure 
+* Role Filter
+* Company Filter
+* Location Filter
+* Download Results
+
+### 🏢 Companies
+
+* Top Hiring Companies
+* Company Analytics
+
+### 🎯 Career Guidance
+
+* Required Skills
+* Learning Roadmap
+* Salary Insights
+
+### 📊 Market Insights
+
+* Pipeline Status
+* Warehouse KPIs
+* Data Quality Dashboard
+* Hiring Trends
+* Top Skills
+* Top Companies
+* Top Locations
+* Role Distribution
+* Pipeline Summary
+
+---
+
+## Database Schema
+
+### Dimension Tables
+
+* dim_jobs
+* dim_skills
+
+### Fact Table
+
+* fact_job_skills
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/your-username/CareerPulse.git
+
+cd CareerPulse
+
+pip install -r requirements.txt
+
+streamlit run portal/app.py
+```
+
+---
+
+## Folder Structure
+
+```text
 CareerPulse/
-│
-├── api/
-│   ├── fetch_jobs.py
-│   └── api_config.py
-│
-├── ingestion/
-│   ├── load_api_to_postgres.py
-│   └── load_data.py
-│
-├── data/
-│   └── api_jobs.csv
-│
-├── sql/
-│   ├── schema.sql
-│   ├── queries.sql
-│   └── business_queries.sql
-│
-└── README.md
+
+api/
+analytics/
+ingestion/
+validation/
+warehouse/
+portal/
+
+data/
+README.md
+requirements.txt
+```
+
+---
+
+## Future Scope
+
+* Apache Airflow
+* Docker
+* Cloud Deployment
+* Incremental Loading
+* Authentication
+* Recommendation Engine
+
+---
+
+## Author
+
+**Priya**
+
+B.Tech – AI & Data Science
+
+Data Engineering Project
+
+---
+
+⭐ If you found this project useful, consider giving it a star on GitHub.
+
+
